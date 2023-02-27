@@ -1,0 +1,5 @@
+index,enhancement_id,start_level,max_level,increase_status_type,increase_status_default_value,increase_status_level_per_value,textcode_name,textcode_explain,icon_name
+1,300000,0,10000000,eIncreaseDamage,10,10,공격력 증가,,
+2,300001,0,1000,eIncreaseCriticalRate,0,0.1,치명타 증가,,
+3,300002,0,100000,eIncreaseCriticalDamage,0,0.1,치명타 데미지 증가,,
+4,300003,0,1000,eIncreaseGoldAcquisition,0,0.1,골드 획득량 증가,,

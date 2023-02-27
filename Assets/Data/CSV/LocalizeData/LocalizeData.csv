@@ -1,0 +1,1113 @@
+﻿index,key,text_kor,text_eng,text_jpn
+1,name_animal_Max,맥스,Max,最大
+2,name_animal_Newton,뉴턴,Newton,ニュートン
+3,name_animal_Rocky,록키,Rocky,ロッキー
+4,name_animal_Molly,몰리,Molly,モリー
+5,name_animal_Jasper,제스퍼,Jasper,ジャスパー
+6,name_animal_Lily,릴리,Lily,リリー
+7,name_animal_Lucy,루시,Lucy,ルーシー
+8,name_animal_Lola,롤라,Lola,ロラ
+9,name_animal_Sadie,세이디,Sadie,サディ
+10,name_animal_Cooper,쿠퍼,Cooper,クーパー
+11,name_animal_Joseph,조셉,Joseph,ヨセフ
+12,name_animal_Chloe,클로이,Chloe,クロエ
+13,name_animal_Luna,루나,Luna,ルナ
+14,name_animal_Emma,엠마,Emma,エマ
+15,name_animal_Milo,마일로,Milo,マイロ
+16,name_animal_Fred,프레드,Fred,フレッド
+17,name_animal_Boomer,부머,Boomer,ブーマー
+18,name_animal_Charlie,찰리,Charlie,チャーリー
+19,name_animal_Jack,잭,Jack,ジャック
+20,name_animal_Simba,심바,Simba,シンバ
+21,name_animal_Simone,시몬,Simone,シモーヌ
+22,name_animal_Buddy,버디,Buddy,バディ
+23,name_animal_Ellie,엘리,Ellie,エリー
+24,name_animal_Maggie,매기,Maggie,マギー
+25,name_animal_Toby,토비,Toby,トビー
+26,name_animal_Bella,벨라,Bella,ベラ
+27,name_animal_Chief George,조지 촌장,Chief George,チーフジョージ
+28,name_animal_Tucker,터커,Tucker,タッカー
+29,name_animal_Jake,제이크,Jake,ジェイク
+30,name_animal_Daisy,데이지,Daisy,デイジー
+31,name_animal_Sofia,소피아,Sofia,ソフィア
+32,name_animal_Bailey,베일리,Bailey,ベイリー
+33,name_animal_Dexter,덱스터,Dexter,デクスター
+34,name_animal_Callie,캘리,Callie,カリー
+35,name_animal_Duke,듀크,Duke,デューク
+36,name_animal_Coco,코코,Coco,ココ
+37,name_animal_Laura,로라,Laura,ローラ
+38,name_animal_Tigger,티거,Tigger,ティガー
+39,name_animal_Oliver,올리버,Oliver,オリバー
+40,name_animal_Leo,레오,Leo,レオ
+41,name_animal_Momo,모모,Momo,モモ
+42,name_animal_Misty,미스티,Misty,ミスティ
+43,name_animal_Rose,로즈,Rose,ローズ
+44,name_animal_Smudge,스머지,Smudge,汚れ
+45,name_animal_Oscar,오스카,Oscar,オスカー
+46,name_animal_bending,벤딩,bending,曲り
+47,name_animal_Tilly,틸리,Tilly,ティリー
+48,name_animal_Country,나라,Country,カントリー
+49,name_animal_Sam,샘,Sam,サム
+50,name_animal_Felix,펠릭스,Felix,フェリックス
+51,name_animal_Balu,발루,Balu,バルー
+52,name_animal_Aria,아리아,Aria,アリア
+53,name_animal_Teddy,테디,Teddy,テディ
+54,name_animal_Gopoto,고포토,Gopoto,ゴポト
+55,desc_animal_Max,동그란 눈이 멋지지?,"I love round eyes, right?",私は丸い目が大好きです。
+56,desc_animal_Newton,같이 사색할까?,Should we think about it together?,一緒に考えてみましょうか？
+57,desc_animal_Rocky,뛰어노는 것을 좋아해,I like to run around.,私は走り回るのが好きです。
+58,desc_animal_Molly,나는 맥스가 좋아,I like Max.,私はマックスが好きです。
+59,desc_animal_Jasper,자유로운 영혼이야,It's a free soul.,自由な魂です。
+60,desc_animal_Lily,산책 다니길 좋아해,I like to go for walks.,散歩に行くのが好きです。
+61,desc_animal_Lucy,식빵은 진리다,Bread is the truth.,パンは真実です。
+62,desc_animal_Lola,집이 최고 꽥!,The house is the best!,家が一番だ！
+63,desc_animal_Sadie,푸른 깃털이 아름답지 꽥!,Blue feathers are beautiful. Quack!,青い羽は美しい。 くそっ！
+64,desc_animal_Cooper,뭐냐 꽥!,"What is it, Quack?",何だよ、クック？
+65,desc_animal_Joseph,오늘도 평온해,I'm at peace today.,今日は平穏です。
+66,desc_animal_Chloe,뭐 신나는 일 없을까,What's the fun of it's all right.,何が面白いのでも構いません。
+67,desc_animal_Luna,수확은 즐거워,The harvest is pleasant.,収穫は楽しい。
+68,desc_animal_Emma,창고는 수학이라고,Warehouse's math.,倉庫の数学。
+69,desc_animal_Milo,엠마는 현명해,Emma's wise.,エマは賢い。
+70,desc_animal_Fred,지금 몇시게,What time is it now?,今何時ですか？
+71,desc_animal_Boomer,화가 난다!!,I'm angry!!,怒ってる！
+72,desc_animal_Charlie,부머는 놀리는 재미가 있어,Boomer's fun to tease.,ブーマーはからかうのが楽しい。
+73,desc_animal_Jack,머리를 하러 갈까,Should I go get my hair done?,髪を整えに行きましょうか？
+74,desc_animal_Simba,내 가슴무늬는 멋져,My chest pattern is nice.,胸の模様がいいです。
+75,desc_animal_Simone,젤리가 아니라 곰,"Bear, not jelly.",グミじゃなくてクマ。
+76,desc_animal_Buddy,"헤이 브라더, 이건 멍이 아니라구.","Hey Brother, this isn't bruising.",兄さん、これは痛くないよ。
+77,desc_animal_Ellie,친구들을 어디있지,Where are your friends?,友達はどこにいるの？
+78,desc_animal_Maggie,오늘도 시원한 물!,Cool water again today!,今日も冷たい水！
+79,desc_animal_Toby,촌장님은 개그맨이야,Chief's a comedian.,チーフはお笑い芸人です。
+80,desc_animal_Bella,숲을 모험하면 즐거워,It's fun to venture into the woods.,森に冒険して入るのは楽しい。
+81,desc_animal_Chief George,우리 마을은 배추가 특산품이야,Cabbage is a specialty in my town.,私の町ではキャベツが特産品です。
+82,desc_animal_Tucker,어디 한번 달려볼까?,Shall we run?,走ってみましょうか？
+83,desc_animal_Jake,터커는 너무 빨라,Tucker's too fast.,タッカーが速すぎる。
+84,desc_animal_Daisy,어디 도토리 없나?,Is there an acorn somewhere?,どこかにどんぐりがありますか。
+85,desc_animal_Sofia,데이지 도토리는 내가 숨겨뒀지롱,I hid the Daisy acorns.,私はデイジーどんぐりたちを隠した。
+86,desc_animal_Bailey,덱스터를 이길 수가 없어~,I can't beat Dexter.,デクスターには勝てない。
+87,desc_animal_Dexter,수영에선 절대 안 져!,I'll never lose in swimming!,水泳では絶対負けない！
+88,desc_animal_Callie,듀크는 너무 덤벙거려!,Duke's so flirtatious!,デューク、すごく浮気！
+89,desc_animal_Duke,부딫힌다 조심해!,It's crashing. Be careful!,ガチャガチャする。 気をつけて！
+90,desc_animal_Coco,또 부딪혔어~,We bumped into each other again.,私たちはまた会いました。
+91,desc_animal_Laura,목이 뻐근해...,I have a stiff neck...,首がこわばってる。
+92,desc_animal_Tigger,언덕은 내가 먼저 오를 거야!,I'll climb the hill first!,私が先に丘に登るよ！
+93,desc_animal_Oliver,아냐 진짜 일등은 나야!,"No, I'm the real number one!",いや、本当に僕が1位だよ！
+94,desc_animal_Leo,밤길은 맡겨둬!,Leave the night road to me!,夜道を私に任せて！
+95,desc_animal_Momo,낮은 졸려...,Low sleepy...,寝ぼけて····
+96,desc_animal_Misty,꼭꼬? 꼭끼오?,Sticky? Sticky?,付いてますか？付いてますか？
+97,desc_animal_Rose,꼭꼬 뭔가를 닮은 것 같다고?,You think I look like something?,僕が何か似てると思う？
+98,desc_animal_Smudge,오스카 어디있어~?,Where's Oscar?,オスカーはどこ？
+99,desc_animal_Oscar,뭘 봐?,What are you looking at?,何を見てるの？
+100,desc_animal_bending,좋은 물건이 있어요,I've got something good.,何かいい物があります。
+101,desc_animal_Tilly,졸려~,I'm sleepy~,眠い~。
+102,desc_animal_Country,오리도 너구리도 아냐,It's not a duck or a raccoon.,カモでもタヌキでもない。
+103,desc_animal_Sam,길 잃은 게 아냐!,I'm not lost!,迷わないよ！
+104,desc_animal_Felix,저 넓은 바다를 보고 싶다...,I want to see that vast ocean...,あの広大な海が見たい。
+105,desc_animal_Balu,안녕하세요. 편지 보내시려구요?,Hello. Are you going to send me a letter?,こんにちは。手紙を送りますか？
+106,desc_animal_Aria,안녕하세요. 티켓 확인할게요!!,"Hello, let me check your ticket!",こんにちは、チケットをチェックします！
+107,desc_animal_Teddy,밀림의 왕 등장!!,The king of the jungle appears!!,ジャングルの王様が登場!!
+108,desc_animal_Gopoto,웃으세요! 좋아요! 찍습니다!,Smile! Good! Here we go!,微笑み！いいね！ 行きます。
+109,desc_wish_animal_Max,풍경 좋은 마을을 찾고 있대,They're looking for a town with a nice view.,彼らは眺めの良い町を探している。
+110,desc_wish_animal_Newton,사과나무가 많은 마을을 찾고 있어,I'm looking for a town full of apple trees.,私はリンゴの木でいっぱいの町を探している。
+111,desc_wish_animal_Rocky,마음대로 뛸 수 있는 곳으로 오고 싶대,He wants to come to a place where he can run at will.,彼は自由に走れる所に来たいと思っている。
+112,desc_wish_animal_Molly,맥스와 함께 있고 싶어 해,He wants to be with Max.,彼はマックスと一緒にいたいと思っている。
+113,desc_wish_animal_Jasper,낭만 고양이가 정착할 곳을 찾고 있어,I'm looking for a place for a romantic cat to settle down.,私はロマンチックな猫の居場所を探している。
+114,desc_wish_animal_Lily,한적한 마을을 찾고 있대,He's looking for a quiet town.,彼は静かな町を探している。
+115,desc_wish_animal_Lucy,식빵 굽기 좋은 마을을 찾고 있어,I'm looking for a town that's good for baking.,私は焼き物の良い町を探している。
+116,desc_wish_animal_Lola,형제와 함께 마을로 돌아오고 싶어 해,He wants to come back to town with his brother.,彼は兄と一緒に町に戻りたいと思っている。
+117,desc_wish_animal_Sadie,롤라와 함께 지내고 싶대,She wants to stay with Lola.,ロラと一緒にいたいって。
+118,desc_wish_animal_Cooper,혼자 있을 연못을 찾고 있어,I'm looking for a pond to be alone.,私は一人ぼっちの池を探している。
+119,desc_wish_animal_Joseph,평화로운 일상을 보내고 싶대,She wants to have a peaceful life.,彼女は平和な生活を送りたい。
+120,desc_wish_animal_Chloe,즐거운 일상을 보내고 싶어 해,He wants to have a nice day.,彼はいい一日を過ごしたい。
+121,desc_wish_animal_Luna,즐겁게 일할 곳을 찾고 있어,I'm looking for a place to enjoy.,私は楽しむ場所を探しています。
+122,desc_wish_animal_Emma,복잡한 곳을 정리하고 싶대,He wants to clean up the mess.,彼は散らかっているものを片付けたい。
+123,desc_wish_animal_Milo,엠마의 정리법을 배우고 싶어 해,She wants to learn Emma's theorem.,彼女はエマの定理を学びたがっている。
+124,desc_wish_animal_Fred,커다란 시계를 하염없이 보고 싶대,He wants to see a big watch.,彼は大きな時計を見たい。
+125,desc_wish_animal_Boomer,화를 삭힐 수 있는 곳을 찾고 있어,I'm looking for a place to calm my anger.,私は怒りを鎮める場所を探している。
+126,desc_wish_animal_Charlie,부머에게 장난을 치고 싶어 해,He wants to play a prank on Boomer.,彼はブーマーにいたずらをしたがっています。
+127,desc_wish_animal_Jack,여러 동물들과 많이 이야기 하고싶대,He wants to talk to many animals.,彼はたくさんの動物と話をしたがっている。
+128,desc_wish_animal_Simba,맛있는 배추를 노리고 있어,I'm aiming for a delicious cabbage.,私は美味しいキャベツを目指しています。
+129,desc_wish_animal_Simone,맛있는 우유를 찾고 있대,He's looking for some delicious milk.,彼はおいしい牛乳を探している。
+130,desc_wish_animal_Buddy,오해받지 않을 곳을 찾고 있대,He's looking for a place that won't be misunderstood.,彼は誤解されない場所を探している。
+131,desc_wish_animal_Ellie,많은 친구를 만들고 싶어 해,He wants to make a lot of friends.,彼は友達をたくさん作りたい。
+132,desc_wish_animal_Maggie,깊은 우물을 찾고 있어,I'm looking for a deep well.,深い井戸を探しています。
+133,desc_wish_animal_Toby,조지 촌장님과 함께 놀고 싶대,He wants to play with Chief George.,彼はジョージ署長と遊びたがっている。
+134,desc_wish_animal_Bella,숲속을 자유롭게 모험하고 싶대,He wants to venture freely in the woods.,彼は自由に森で冒険したいと思っている。
+135,desc_wish_animal_Chief George,배추 키우기는 맡겨둬!,Leave the cabbage to me!,キャベツは私に任せて！
+136,desc_wish_animal_Tucker,달리기 시합을 할 수 있는 곳을 찾고 있대,He's looking for a place to run.,彼は走る場所を探している。
+137,desc_wish_animal_Jake,여유롭게 주변을 볼 수 있는 곳을 찾고 있어,I'm looking for a place to relax and look around.,リラックスしてあたりを見回す場所を探しています。
+138,desc_wish_animal_Daisy,나무열매가 많은 곳으로 가고 싶대,He wants to go to a place with lots of berries.,彼はベリーがたくさんある所へ行きたがっている。
+139,desc_wish_animal_Sofia,데이지와 놀 수 있는 곳을 찾고 있대,He's looking for a place to hang out with Daisy.,彼はデイジーと遊ぶ場所を探している。
+140,desc_wish_animal_Bailey,큰 물가가 있는 곳을 찾고 있대,He's looking for a place with big prices.,彼は値段の高い店を探している。
+141,desc_wish_animal_Dexter,마음껏 수영할 수 있는 곳을 찾고 있대,He's looking for a place to swim to his heart's.,彼は心ゆくまで泳ぐ場所を探している。
+142,desc_wish_animal_Callie,듀크와 함께 있을 곳을 찾고 있어,I'm looking for a place to stay with Duke.,デュークと一緒に泊まる場所を探しています。
+143,desc_wish_animal_Duke,캘리와 함게 있을 곳을 찾고 있어,I'm looking for a place to be with Callie.,私はキャリーと一緒にいる場所を探しています。
+144,desc_wish_animal_Coco,부딪히지 않을 곳을 찾고 있대,He's looking for a place not to bump into.,彼はぶつからない場所を探している。
+145,desc_wish_animal_Laura,편하게 잘 수 있는 곳을 찾고 있대,He's looking for a place to sleep comfortably.,彼は快適に眠る場所を探している。
+146,desc_wish_animal_Tigger,사자가 있는 곳을 찾고 있어,I'm looking for a lion.,ライオンを探しています。
+147,desc_wish_animal_Oliver,티거와 시합을 해도 괜찮은 곳을 찾고 있어,I'm looking for a place to play Tigger.,私はティガーをする場所を探しています。
+148,desc_wish_animal_Leo,숲이 우거진 곳을 찾고 있대,He's looking for a wooded place.,彼は森のある場所を探している。
+149,desc_wish_animal_Momo,낮잠을 편하게 잘 수 있는 곳을 찾고 있대,He's looking for a place to take a nap.,彼は昼寝をする場所を探している。
+150,desc_wish_animal_Misty,아침을 알릴 수 있는 곳을 찾고 있어,I'm looking for a place to announce the morning.,朝発表の場所を探しています。
+151,desc_wish_animal_Rose,미스티를 챙길 수 있는 곳을 찾고 있어,I'm looking for a place to pack Misty.,ミスティの荷造り場所を探しています。
+152,desc_wish_animal_Smudge,따듯한 곳을 찾고 있대,He's looking for a warm place.,彼は暖かい場所を探している。
+153,desc_wish_animal_Oscar,스머지를 위해 따듯한 곳을 찾고 있어,I'm looking for a warm place for Smudge.,スミッジの暖かい場所を探しています。
+154,desc_wish_animal_bending,배추가 많으면 언제라도 들러요,"If you have a lot of cabbages, you can drop by anytime.",キャベツがたくさんあるなら、いつでも立ち寄ってもいいよ。
+155,desc_wish_animal_Tilly,느긋한 하루를 보낼 수 있는 곳을 찾고 있어,I'm looking for a place where I can relax.,私はくつろげる場所を探しています。
+156,desc_wish_animal_Country,조금 독특해도 괜찮은 곳을 찾고 있대,They're looking for a place that's a little bit unique.,彼らは少しユニークな場所を探している。
+157,desc_wish_animal_Sam,풀밭이 있는 곳을 찾고 있어,I'm looking for a place with grass.,私は草の生えている場所を探しています。
+158,desc_wish_animal_Felix,바다가 보이는 곳을 찾고 있어,I'm looking for an ocean view.,私は海の景色を探しています。
+159,desc_wish_animal_Balu,모두의 편지를 맡아주고 싶대,He wants to keep everyone's letters.,彼はみんなの手紙を守りたいと思っている。
+160,desc_wish_animal_Aria,버스 안내가 필요한 곳을 찾고 있대,He's looking for a bus guide.,彼はバスガイドを探している。
+161,desc_wish_animal_Teddy,높은 언덕이 있는 곳을 찾고 있대,He's looking for a place with a high hill.,彼は高い丘のある場所を探している。
+162,desc_wish_animal_Gopoto,대포 카메라를 설치 할 곳을 찾고 있대,They're looking for a place to install a cannon camera.,彼らは大砲カメラを設置する場所を探している。
+163,desc_come_on_animal_Max,활발한 맥스가 찾아왔어!,Vigorous Max is here!,元気なマックスが登場!
+164,desc_come_on_animal_Newton,사색가 뉴턴이 찾아왔어!,Thinker Newton's here!,考え屋ニュートンが来た！
+165,desc_come_on_animal_Rocky,활발한 록키가 찾아왔어!,A lively Rocky is here!,元気なラキが来ました。
+166,desc_come_on_animal_Molly,몰리가 마을로 찾아왔어!,Molly came to town!,モリーが上京した！
+167,desc_come_on_animal_Jasper,낭만 고양이 제스퍼가 찾아왔어!,Romantic cat Jasper's here!,ロマンチックなキャット、ジャスパーが来た！
+168,desc_come_on_animal_Lily,산책을 좋아하는 릴리가 찾아왔어!,"Lily, who loves to walk, is here!",歩くのが大好きなリリーが来た！
+169,desc_come_on_animal_Lucy,빵굽기 좋아하는 루시가 찾아왔어!,"Lucy, who loves to bake bread, is here!",パンを焼くのが大好きなルーシーが来た！
+170,desc_come_on_animal_Lola,롤라가 마을로 돌아왔어!,Lola's back in town!,ローラが町に戻ってきた！
+171,desc_come_on_animal_Sadie,세이디가 마을로 돌아왔어!,Sadie's back in town!,サディが町に戻ってきた！
+172,desc_come_on_animal_Cooper,헤엄치는 걸 좋아하는 쿠퍼가 찾아왔어!,"Cooper, who loves to swim, has come!",泳ぐのが大好きなクーパーが来た！
+173,desc_come_on_animal_Joseph,착한 조셉이 찾아왔어!,Good Joseph is here!,いいジョセフが来た！
+174,desc_come_on_animal_Chloe,해맑은 클로이가 찾아왔어!,Happy Chloe's here!,ハッピークロエが来た！
+175,desc_come_on_animal_Luna,워커홀릭 루나가 찾아왔어!,Walkerholic Luna's here!,ウォーカーホリック·ルナが来ました！
+176,desc_come_on_animal_Emma,수줍은 엠마가 찾아왔어!,Shy Emma's here!,シャイ·エマが来た！
+177,desc_come_on_animal_Milo,견습생 마일로가 찾아왔어!,The apprentice Milo is here!,弟子のマイロが来ました！
+178,desc_come_on_animal_Fred,시계를 좋아하는 프레드가 찾아왔어!,"Fred, who loves watches, has come!",時計が大好きなフレッドが来た！
+179,desc_come_on_animal_Boomer,화가 많은 부머가 찾아왔어!,An angry Boomer is here!,怒ったブーマーが来た！
+180,desc_come_on_animal_Charlie,장난꾸러기 찰리가 찾아왔어!,Playful Charlie's here!,遊び心のあるチャーリーが来た！
+181,desc_come_on_animal_Jack,패셔니스타 잭이 찾아왔어!,Fashionista Jack's here!,ファッショニスタジャックが登場!
+182,desc_come_on_animal_Simba,배추를 좋아하는 심바가 찾아왔어!,"Simba, who loves cabbage, is here!",キャベツ大好きなシンバが来た！
+183,desc_come_on_animal_Simone,우유를 좋아하는 시몬이 찾아왔어!,"Simon, who loves milk, has come!",牛乳が大好きなサイモンが来た！
+184,desc_come_on_animal_Buddy,팬더 버디가 찾아왔어!,Panda Buddy's here!,パンダBuddyが来ました。
+185,desc_come_on_animal_Ellie,엘리가 친구를 만들러 왔어!,Ellie's here to make friends!,エリーは友達を作るためにここに来た！
+186,desc_come_on_animal_Maggie,물을 좋아하는 매기가 찾아왔어!,"Maggie, who loves water, is here!",水好きなマギーが来た！
+187,desc_come_on_animal_Toby,개구쟁이 토비가 찾아왔어!,Here comes the naughty Toby!,やんちゃなトビーが来た！
+188,desc_come_on_animal_Bella,모험가 벨라가 찾아왔어!,Adventurer Bella's here!,冒険者ベラが来た！
+189,desc_come_on_animal_Chief George,든든한 조지 촌장님이 찾아왔어!,Strong Chief George is here!,強いジョージ署長が来ました！
+190,desc_come_on_animal_Tucker,날쌘돌이 터커가 찾아왔어!,Tucker's here!,タッカーが来た！
+191,desc_come_on_animal_Jake,여유를 즐기는 제이크가 찾아왔어!,Jake is here to relax!,ジェイクがリラックスしに来た！
+192,desc_come_on_animal_Daisy,도토리를 좋아하는 데이지가 찾아왔어!,Daisy loves acorns!,デイジー、どんぐり大好き！
+193,desc_come_on_animal_Sofia,보물찾기를 좋아하는 소피아가 찾아왔어!,"Sofia, who loves treasure hunts, has come!",トレジャーハンティングが大好きなソフィアが来ました!
+194,desc_come_on_animal_Bailey,강을 좋아하는 베일리가 찾아왔어!,"Bailey, who loves the river, has come!",川が大好きなベイリーが来た！
+195,desc_come_on_animal_Dexter,수영 천재 덱스터가 찾아왔어!,Swimming genius Dexter's here!,水泳の天才デクスターが来ました！
+196,desc_come_on_animal_Callie,듀크를 걱정하는 캘리가 찾아왔어!,Callie's worried about Duke!,キャリーはデュークのことを心配している！
+197,desc_come_on_animal_Duke,캘리를 좋아하는 듀크가 찾아왔어!,"Here comes Duke, who loves Callie!",カリーを愛しているデュークが来た！
+198,desc_come_on_animal_Coco,목이 긴 코코가 찾아왔어!,Coco with a long neck is here!,首が長いココが来ました。
+199,desc_come_on_animal_Laura,키가 큰 로라가 찾아왔어!,Tall Laura's here!,背の高いローラが来た！
+200,desc_come_on_animal_Tigger,강해지고 싶은 티거가 찾아왔어!,Tigger wants to be strong!,ティガーは強くなりたい！
+201,desc_come_on_animal_Oliver,언덕을 오르고 싶은 올리버가 찾아왔어!,Oliver wants to climb the hill!,オリバーは丘を登りたい！
+202,desc_come_on_animal_Leo,밤눈이 밝은 레오가 찾아왔어!,Leo with bright night eyes is here!,夜目が明るい獅子座が来ました。
+203,desc_come_on_animal_Momo,잠이 많은 모모가 찾아왔어!,A sleepy Momo is here!,眠いモモが来ました。
+204,desc_come_on_animal_Misty,어설픈 미스티가 찾아왔어!,A clumsy Misty is here!,不器用な霧が来た！
+205,desc_come_on_animal_Rose,상냥한 로즈가 찾아왔어!,Sweet Rose is here!,Sweet Roseが来ました。
+206,desc_come_on_animal_Smudge,추운 게 싫은 스머지가 찾아왔어!,Smurfs who hate the cold are here!,寒さが嫌いなスマーフが来た！
+207,desc_come_on_animal_Oscar,사실은 착한 오스카가 찾아왔어!,"In fact, a good Oscar has come!",実際、良いオスカーがやってきた！
+208,desc_come_on_animal_bending,좋은 시간 되세요,Have a good time.,楽しい時間をお過ごしください
+209,desc_come_on_animal_Tilly,느긋한 틸리가 찾아왔어!,Relaxed Tilly's here!,リラックスしたティリーが来た！
+210,desc_come_on_animal_Country,독특한 나라가 찾아왔어!,A unique country has come!,ユニークな国がやってきた！
+211,desc_come_on_animal_Sam,풀을 좋아하는 샘이 찾아왔어!,"Sam, who loves grass, has come!",草が大好きなサムが来た！
+212,desc_come_on_animal_Felix,바다를 좋아하는 펠릭스가 찾아왔어!,"Felix, who loves the sea, has come!",海が大好きなフェリックスが来た！
+213,desc_come_on_animal_Balu,믿음직한 발루가 찾아왔어!,Trustful Valu has come!,信頼のおけるValuが来ました!
+214,desc_come_on_animal_Aria,신입 아리아가 찾아왔어!,The new aria's here!,新しいアリアが登場!
+215,desc_come_on_animal_Teddy,강인한 테디가 찾아왔어!,Strong Teddy's here!,強いテディが来た！
+216,desc_come_on_animal_Gopoto,70년 전통의 사진사 고포토가 찾아왔어!,"Gopoto, a 70-year-old photographer, has come!",70歳の写真家、五本さんが来ました！
+217,name_item_leap,배추,Cabbage,キャベツ
+218,name_item_wood,통나무,Log,ログ
+219,name_item_brick,벽돌,Brick,ブリック
+220,name_item_glass,유리병,a glass bottle,ガラス瓶
+221,name_item_paint,페인트,Paint,ペイント
+222,name_item_screw,나사,Screw,ネジ
+223,name_item_hammer,망치,Hammer,ハンマー
+224,name_item_Seed,씨앗,Seed,シード
+225,name_item_Brush,붓,Brush,ブラシ
+226,name_item_Garbage_bag,쓰레받기,Garbage bag,ごみ袋
+227,name_item_Letter,편지,Letter,レター
+228,name_item_Milk,우유,Milk,ミルク
+229,name_item_duck_hair,오리털,duck hair,カモ毛
+230,desc_reward_item_Cabbage_1,아삭아삭 맛있는 소리,a crunchy sound,歯ごたえのある音
+231,desc_reward_item_Log_1,의자로도 쓸 수 있을까?,Can I use it as a chair?,椅子として使ってもいいですか？
+232,desc_reward_item_Brick_1,바람에도 비에도 끄떡없어!,"No wind, no rain, no wind nor the rain!",風も雨も吹かず、風も雨も吹かない！
+233,desc_reward_item_a_glass_bottle_1,깨지지 않게 조심해!,Be careful not to break it!,壊さないように気をつけなさい！
+234,desc_reward_item_Paint_1,어떤 색이 들어 있을까?,What color will it contain?,何色ですか？
+235,desc_reward_item_Screw_1,잃어버리면 어쩌지?,What if I lose it?,なくしたらどうする？
+236,desc_reward_item_Hammer_1,은근히 무거우니 조심해!,"It's rather heavy, so be careful!",かなり重いので注意!
+237,desc_reward_item_Seed_1,,,
+238,desc_reward_item_Brush_1,,,
+239,desc_reward_item_Garbage_bag_1,,,
+240,desc_reward_item_Letter_1,,,
+241,desc_reward_item_Milk_1,,,
+242,desc_reward_item_duck_hair_1,,,
+243,desc_reward_item_Cabbage_2,신선한 배추가 왔어요!,Fresh cabbages are here!,新鮮なキャベツが来ました。
+244,desc_reward_item_Log_2,통나무 굴러가요!,The logs are rolling!,丸太が揺れている！
+245,desc_reward_item_Brick_2,떨어뜨리지 않게 조심해!,Be careful not to drop it!,落とさないように気をつけなさい！
+246,desc_reward_item_a_glass_bottle_2,유리병을 꽃으로 장식 해 볼까?,Shall we decorate the glass bottle with flowers?,ガラス瓶に花を飾りましょうか。
+247,desc_reward_item_Paint_2,예쁜 색으로 칠해보자!,Let's paint it pretty!,きれいに塗ろう！
+248,desc_reward_item_Screw_2,찾았다 나사!,Got it. Screw!,分かった。くそっ！
+249,desc_reward_item_Hammer_2,조립을 시작 해 볼까?,Shall we start assembling?,私たちは組み立てを始めましょうか。
+250,desc_reward_item_Seed_2,,,
+251,desc_reward_item_Brush_2,,,
+252,desc_reward_item_Garbage_bag_2,,,
+253,desc_reward_item_Letter_2,,,
+254,desc_reward_item_Milk_2,,,
+255,desc_reward_item_duck_hair_2,,,
+256,name_Village_Cleaning,필드,Village Cleaning,
+257,name_Duck_Chief_House,조지 촌장님의 집,Duck Chief House,
+258,name_Duck_Brother_House,마을 창고,Duck Brother's House,
+259,name_Village_Warehouse,롤라 형제의 집,Village Warehouse,
+260,name_Milk_Factory,우유 공장,Milk Factory,
+261,name_Post_Office,우체국,Post Office,
+262,desc_Village_Cleaning_1,마을 대 청소,Village cleaning,村の清掃
+263,desc_Duck_Chief_House_1,조지 촌장님의 집 청소,Cleaning Chief George's House,掃除係長ジョージの家
+264,desc_Duck_Brother_House_1,마을 창고 청소,village warehouse cleaning,村の倉庫清掃
+265,desc_Village_Warehouse_1,롤라 형제의 집 청소,Cleaning the Lola Brothers' House,ローラ兄弟の家の掃除
+266,desc_Milk_Factory_1,우유 공장 청소,milk factory cleaning,乳工場清掃
+267,desc_Post_Office_1,특급배송,express delivery,速達
+268,desc_Village_Cleaning_2,,,
+269,desc_Duck_Chief_House_2,조지 촌장님의 집 수리,Repair Chief George's House,修理主任ジョージの家
+270,desc_Duck_Brother_House_2,마을 창고 수리,village go-go,ビレッジゴーゴー
+271,desc_Village_Warehouse_2,롤라 형제의 집 수리,Rola Brothers' House Repair,ローラ兄弟の家修理
+272,desc_Milk_Factory_2,우유 공장 수리,milk factory repair,牛乳工場修理
+273,desc_Post_Office_2,편지가 왔어요~,It's a letter~,手紙だよ~。
+274,desc_Village_Cleaning_3,,,
+275,desc_Duck_Chief_House_3,조지 촌장님의 집 색칠,Coloring George's House,ジョージ家の彩色
+276,desc_Duck_Brother_House_3,마을 창고 색칠,village warehouse coloring,村の倉庫の色彩色
+277,desc_Village_Warehouse_3,롤라 형제의 집 색칠,Coloring the Lola Brothers' House,ローラ·ブラザーズの家を彩る
+278,desc_Milk_Factory_3,우유 공장 색칠,milk factory coloring,乳工場着色
+279,desc_Post_Office_3,택배도 가능해요~,You can also deliver.,配送も可能です。
+280,desc_book_Village_Cleaning,,,
+281,desc_book_Duck_Chief_House,배추가 자라고 있다.,Cabbage is growing.,キャベツが育っている。
+282,desc_book_Duck_Brother_House,잡동사니가 많다.,There's a lot of junk.,ガラクタが多い。
+283,desc_book_Village_Warehouse,깃털이 많이 떨어져 있다.,A lot of feathers have fallen off.,たくさんの羽毛が落ちた。
+284,desc_book_Milk_Factory,맛있는 우유가 많이 있다.,There is a lot of delicious milk.,おいしい牛乳がたくさんあります。
+285,desc_book_Post_Office,모두의 편지가 있다.,Everyone has a letter.,みんな手紙を持っています。
+286,desc_reward_Village_Cleaning_1,마을을 깨끗하게 만들어볼까?,Let's make this town clean.,この町をきれいにしよう。
+287,desc_reward_Duck_Chief_House_1,맛있는 배추를 키워야 해!,We need to grow delicious cabbages!,おいしいキャベツを育てないと！
+288,desc_reward_Duck_Brother_House_1,먼지 하나 안나오겠지?,"There won't be any dust, right?",ほこりは出ないでしょう？
+289,desc_reward_Village_Warehouse_1,벽이 부숴지진 않겠지?,"The wall won't break, will it?",壁は壊れないでしょう。
+290,desc_reward_Milk_Factory_1,신선한 우유를 만들어 보자!,Let's make fresh milk!,新鮮な牛乳を作ろう！
+291,desc_reward_Post_Office_1,배송의 즐거움,Delight of Shipping,発送の楽しさ
+292,desc_reward_Village_Cleaning_2,다시 깨끗한 마을로 돌아왔어!,Back to a clean village!,きれいな村に戻れ！
+293,desc_reward_Duck_Chief_House_2,배추가 자라나고 있어!,Cabbage is growing!,キャベツが育ってきた！
+294,desc_reward_Duck_Brother_House_2,집이 너무 깨끗해!!,The house is so clean!!,家がすごくきれいだ！
+295,desc_reward_Village_Warehouse_2,오리형제의 안락한 집이야!,It's the duck brothers' home!,あひる兄弟の家だ！
+296,desc_reward_Milk_Factory_2,신선한 우유를 만드는 중이야!,I'm making fresh milk!,新鮮な牛乳を作っています！
+297,desc_reward_Post_Office_2,특급배송! 편지가 왔어요~ 택배도 가능해요~,Express delivery! The letter is here! You can also deliver.,速達! 手紙が来た！ 配送も可能です。
+298,desc_reward_Village_Cleaning_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+299,desc_reward_Duck_Chief_House_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+300,desc_reward_Duck_Brother_House_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+301,desc_reward_Village_Warehouse_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+302,desc_reward_Milk_Factory_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+303,desc_reward_Post_Office_3,멋진 색이 칠해졌어!!,It's a great color!!,素晴らしい色です!!
+304,name_Mini_Tree,작은 나무,Mini Tree,ミニツリー
+305,name_Duck_Crossing,오리 건널목,Duck Crossing,アヒルの交差
+306,name_Bus_Signs,버스 표지판,Bus Signs,バスサイン
+307,name_Warehouse,창고,Warehouse,倉庫
+308,name_Ship,배,Ship,輸送する
+309,name_Small_Post_Box,촌장님의 우체통,Small Post Box,小さな郵便ポスト
+310,name_Welcome_Signs,환영 표지판,Welcome Signs,ウェルカムサイン
+311,desc_reward_Mini_Tree_1,나무에 물을 줘볼까?,Should I water the trees?,木に水をやるべきか？
+312,desc_reward_Duck_Crossing_1,오리들이 안전하게 건널 수 있을까?,Can ducks safely cross?,アヒルは無事に横断できますか？
+313,desc_reward_Bus_Signs_1,버스 기사 아저씨 저 아직 안 탔어요!,"Bus driver, I'm not on it yet!",バスの運転手、まだ乗っていません！
+314,desc_reward_Warehouse_1,창고가 너무 허름한거 같아..,I think the warehouse is too shabby..,倉庫が粗末すぎると思います。
+315,desc_reward_Ship_1,배가 너무 낡은거 같소...,I think the stomach is too old...,お腹が古すぎると思います...
+316,desc_reward_Small_Post_Box_1,촌장님의 우체통이 너무 낡은거 같아..,I think the boss's mailbox is too old...,上司のメールボックスが古すぎると思います...
+317,desc_reward_Welcome_Signs_1,우리 마을에 어서오세요.,Welcome to my town.,私の町へようこそ。
+318,desc_reward_Mini_Tree_2,나무에 생기가 넘쳐나고 있어!,The tree is full of vitality!,木は活力に満ちています！
+319,desc_reward_Duck_Crossing_2,이제 오리들도 안전해!,Ducks are safe now!,アヒルは安全です！
+320,desc_reward_Bus_Signs_2,버스타고 출발~,Take the bus~,バスに乗って〜
+321,desc_reward_Warehouse_2,이제 재료 보관도 안심이야!,Storage of ingredients is now safe!,食材の保管も安心！
+322,desc_reward_Ship_2,언제든 출항 할 수 있을거 같아!,I think I can leave anytime!,いつでも行けると思います！
+323,desc_reward_Small_Post_Box_2,촌장님에게 편지를 써보자!,Let's write a letter to the mayor!,市長に手紙を書こう！
+324,desc_reward_Welcome_Signs_2,언제나 평화로운 타이니 포레스트!,Peaceful Tiny Forest always!,いつも平和な小さな森！
+325,name_stump,나무 밑둥,Tree Stump,ツリー·スタンプ
+326,name_axe,도끼,Axe,斧
+327,name_wooden01,나무통(세로),Wooden barrel (Vertical),木製バレル（垂直）
+328,name_wooden02,나무통(가로),Wooden barrel (Horizontal),木製バレル（水平）
+329,name_cart,손수레,Cart,カート
+330,name_fire,모닥불,Bonfire,ボンファイヤー
+331,name_hammock,해먹,Hammock,ハンモック
+332,name_straw,짚단,Straw,ストロー
+333,name_water,연못,Pond,池
+334,name_well,우물,Well,よく
+335,name_milk,우유통,Milk Can,ミルク缶
+336,name_mini01,꽃화분,Flower pots,植木鉢
+337,name_mini02,묘목,Seedlings,苗
+338,name_mini03,선인장,Cactus,サボテン属
+339,name_mini04,나무화분,Tree pots,木鉢
+340,name_watercan,물뿌리개,Sprinkler,スプリンクラー
+341,name_guitar,기타,Guitar,ギター
+342,name_mike,마이크,MIC,MIC
+343,name_car,트럭,Truck,トラック
+344,name_field01,밭(폐허),Field (ruins),フィールド（遺跡）
+345,name_field02,밭(강화1),Field (Enhancement 1),フィールド（拡張 1）
+346,name_field03,밭(강화2),Field (Enhancement 2),フィールド（拡張 2）
+347,name_field04,밭(강화3),Field (Enhancement 3),フィールド（拡張 3）
+348,name_slotMachine,자판기,Slot Machine,スロットマシン
+349,name_photo_studio,사진관,Photo Studio,フォトスタジオ
+350,name_sunbed,해변 의자,Sun Bed,サンベッド
+351,name_tent,텐트,Tent,テント
+352,name_dance_floor,무대,Dance floor,ダンスフロア
+353,name_signpost,푯말,Signpost,サインポスト
+354,name_big_fish,대어,Big Fish,ビッグ·フィッシュ
+355,name_map,지도,Map,マップ
+356,name_telescope,망원경,Telescope,テレスコープ
+357,name_balloon,풍선,Balloon,風船
+358,name_kick_board,킥보드,Kick Board,キックボード
+359,name_skateboard,스케이트 보드,Skate Board,スケートボード
+360,name_parasolm,파라솔,Parasolm,パラソルム
+361,name_trophy,트로피,Trophy,トロフィー
+362,name_flag,깃발,Flag,フラッグ
+363,name_police_hat_speed_gun,"경찰 모자, 속도 측정기",Police Hat and Speed Gun,警察帽とスピードガン
+364,name_tube,튜브,Tube,チューブ
+365,name_pogo_stick,스카이 콩콩,Pogo Stick,ポゴスティック
+366,name_elrod,수맥 탐사봉,Elrod,エルロッド
+367,desc_stump,의자로도 받침대로도 안성맞춤,Perfect as a chair or stand,椅子やスタンドとして最適
+368,desc_axe,힘 자랑 보다는 안전하게,Safer than bragging power,自慢のパワーよりも安全
+369,desc_wooden01,초보 수집가의 수집함,Novice collector's chest,初心者コレクターの胸
+370,desc_wooden02,고수 수집가의 수집함,Coriander Collector's Box,コリアンダーコレクターズボックス
+371,desc_cart,"한 손 보단 두 손, 두 손보단 수레","Two hands rather than one hand, floats rather than two hands",片手ではなく両手、両手ではなく浮く
+372,desc_fire,마쉬멜로우 구워먹기 좋은 온도,Good temperature for baking marshmallows,マシュマロを焼くのに適した温度
+373,desc_hammock,흔들흔들 기분 좋은 낮잠자리,A good nap to shake,振るには良い昼寝
+374,desc_straw,푹신한 천연 침대,Fluffy natural bed,ふわふわナチュラルベッド
+375,desc_water,수영하기 좋은 곳,A good place to swim,泳ぐのに良い場所
+376,desc_well,깨끗한 지하수,Clean groundwater,きれいな地下水
+377,desc_milk,고소한 우유가 한가득,A lot of savory milk,おいしい牛乳がたくさん
+378,desc_mini01,아기꽃이 한가득,Full of baby flowers,赤ちゃんの花でいっぱい
+379,desc_mini02,무럭무럭 자라는 중,Growing up and down,成長する
+380,desc_mini03,내 말을 들어주는 작은 친구,Little friend who listens to me,私の言うことを聞く小​​さな友達
+381,desc_mini04,맛있는 열매를 맺을 예정,To produce delicious fruit,おいしい果物を作るために
+382,desc_watercan,나무와 꽃에게 물을 줄 시간,Time to water the trees and flowers,木や花に水をやる時間
+383,desc_guitar,어떤 노래를 연주 해 볼까?,What song do you want to play?,どんな曲を演奏したいですか？
+384,desc_mike,오늘은 내가 슈퍼스타,Today I am a superstar,今日私はスーパースターです
+385,desc_car,어디든 갈 수 있을 것만 같은 기분,I feel like I can go anywhere,どこにでも行ける気がする
+386,desc_field01,밭,field,フィールド
+387,desc_field02,배추 수확이 가능한 밭,Chinese cabbage harvesting field,白菜収穫畑
+388,desc_field03,배추 수확이 가능한 밭,Chinese cabbage harvesting field,白菜収穫畑
+389,desc_field04,배추 수확이 가능한 밭,Chinese cabbage harvesting field,白菜収穫畑
+390,desc_slotMachine,자판기 설치,Vending Machine Installation,自動販売機の設置
+391,desc_photo_studio,70년 전통의 사진관,70-year-old photo studio,70歳の写真館
+392,desc_sunbed,타지 않게 조심,Be careful not to burn,焦げないように注意してください
+393,desc_tent,밤에도 춥지 않아,It's not cold at night,夜は寒くない
+394,desc_dance_floor,내 춤을 선보일 시간,Time to show my dance,私のダンスを見せる時間
+395,desc_signpost,우리 마을만의 색깔!,The color of our town!,私たちの町の色！
+396,desc_big_fish,저 강을 거스르다 잡혀버렸네,I was caught crossing that river.,私はその川を渡るのを捕まえた。
+397,desc_map,어디가 북쪽이지?,Where is North?,北はどこ？
+398,desc_telescope,멀리까지 볼 수 있어,I can see far,遠くに見える
+399,desc_balloon,아무리 봐도 촌장님의 얼굴,"No matter how you look, the face of the mayor",どのように見えても市長の顔
+400,desc_kick_board,전방주시!,Look ahead!,先のことを考える！
+401,desc_skateboard,내리막길 조심!,Be careful downhill!,下り坂には注意してください！
+402,desc_parasolm,여름에도 걱정 없음!,No worry in the summer!,夏でも安心！
+403,desc_trophy,오늘의 1등에게 드립니다,Today's 1st prize,今日の1等
+404,desc_flag,지금은 건너면 안돼요,You can't cross now.,今は交差できません。
+405,desc_police_hat_speed_gun,내가 지켜보고 있다,I'm watching,私が見ている
+406,desc_tube,수영을 못해도 안심,Safe even if you can't swim,泳げなくても安心
+407,desc_pogo_stick,머리가 하늘까지 닿겠네!,Your head will reach the sky!,頭が空に届きます！
+408,desc_elrod,삐삐삐...여기다!,Beep beep...here!,ビープ音...ここ！
+409,desc_reward_stump_1,누가 베어 둔걸까?,Who put it down?,だれがそれを置いたか。
+410,desc_reward_axe_1,다치지 않게 조심히 써야해,You have to be careful not to hurt,あなたは傷つけないように注意する必要があります
+411,desc_reward_wooden01_1,안에 뭐가 들어 있을까?,What's inside?,何が入ってるの？
+412,desc_reward_wooden02_1,무슨 소리가 들린 것 같아,I think I heard something,何か聞いたと思う
+413,desc_reward_cart_1,무거운걸 옮겨볼까?,Shall we move something heavy?,重いものを動かしませんか？
+414,desc_reward_fire_1,캠핑 온 기분이 들어,I feel like camping,キャンプしたい
+415,desc_reward_hammock_1,어떤 꿈을 꿀까?,What dream do you dream?,どんな夢を見ますか？
+416,desc_reward_straw_1,바스락 바스락 듣기 좋은 소리가 나,Basrak Basrak Rock sounds good to hear,Basrak Basrak Rock聞いて良さそう
+417,desc_reward_water_1,하늘이 담긴 것 같아,I think the sky is in it,空はそこにあると思います
+418,desc_reward_well_1,얼마나 깊은 우물일까?,How deep is it?,深さはどれくらいですか？
+419,desc_reward_milk_1,초코우유도 있을까?,Is there chocolate milk?,チョコレートミルクはありますか？
+420,desc_reward_mini01_1,어떤 색 꽃이 필까?,What color flower do you want?,あなたは何色の花が欲しいですか？
+421,desc_reward_mini02_1,어디까지 자랄까?,How far will it grow?,それはどのくらい成長しますか？
+422,desc_reward_mini03_1,오늘은 어떤 이야기를 할까?,What are we talking about today?,今日は何について話しているのですか？
+423,desc_reward_mini04_1,사과? 아니면 오렌지?,Apple? Or orange?,林檎？ それともオレンジ？
+424,desc_reward_watercan_1,많이 목말랐지?,Were you thirsty?,喉が渇いた？
+425,desc_reward_guitar_1,누가 연주하고 있는걸까?,Who is playing?,誰が遊んでいる？
+426,desc_reward_mike_1,누구의 목소리일까?,Whose voice is it?,誰の声？
+427,desc_reward_car_1,오늘은 어디로 가볼까?,Where shall we go today?,今日はどこに行きましょうか。
+428,desc_reward_field01_1,,,
+429,desc_reward_field02_1,,,
+430,desc_reward_field03_1,,,
+431,desc_reward_field04_1,,,
+432,desc_reward_slotMachine_1,배추를 알차게 쓰자,Let's use Chinese cabbage,白菜を使ってみよう
+433,desc_reward_photo_studio_1,어떤 사진을 찍을까?,What picture do you take?,どんな写真を撮りますか？
+434,desc_reward_sunbed_1,햇빛 좋은 곳으로 가 보자,Let's go to a place with good sunshine,日当たりの良い場所に行こう
+435,desc_reward_tent_1,얼마나 넓을까?,How wide?,どれくらい広い？
+436,desc_reward_dance_floor_1,한번 춤 춰 볼까?,Shall we dance?,踊りませんか？
+437,desc_reward_signpost_1,무슨색이 잘 어울릴까?,What color suits you well?,どんな色が似合う？
+438,desc_reward_big_fish_1,몇 cm일지 궁금해,I wonder how many cm,何センチかしら
+439,desc_reward_map_1,이쪽인가? 저쪽인가?,Is it this way? Is it over there?,これですか？ あそこですか
+440,desc_reward_telescope_1,저 멀리에 뭔가 보여?,Do you see something far away?,遠くに何か見えますか？
+441,desc_reward_balloon_1,누가 만든걸까?,Who made it?,誰が作ったの？
+442,desc_reward_kick_board_1,전동 킥보드일까?,Is it an electric kickboard?,電気キックボードですか？
+443,desc_reward_skateboard_1,묘기 연습도 해 볼까?,Should I practice stunting?,スタントを練習すべきですか？
+444,desc_reward_parasolm_1,한 낮에도 괜찮을까?,Is it okay in the middle of the day?,一日の中で大丈夫ですか？
+445,desc_reward_trophy_1,내가 받을 수 있을까?,Can I get it?,私はそれを手に入れることができますか？
+446,desc_reward_flag_1,빨간불? 파란불?,Red light? Blue light?,赤信号？ 青色光？
+447,desc_reward_police_hat_speed_gun_1,한 번 써 보고 싶어!,I want to try it once!,一度やってみたい！
+448,desc_reward_tube_1,떠내려가진 않겠지?,Wouldn't it be floating?,浮いていませんか？
+449,desc_reward_pogo_stick_1,목표는 우주까지!,The goal is to the universe!,目標は宇宙です！
+450,desc_reward_elrod_1,물이 어디에 있을까?,Where is the water?,水はどこですか？
+451,desc_reward_stump_2,좋은 의자를 찾았어!,I found a good chair!,いい椅子を見つけました！
+452,desc_reward_axe_2,나무 장작을 \n많이 만들 수 있겠어!,I can make \na lot of wood firewood!,\n多くの薪を作ることができます！
+453,desc_reward_wooden01_2,짐들을 쉽게 정리할 수 있겠어!,I can organize my luggage easily!,荷物を簡単に整理できます！
+454,desc_reward_wooden02_2,창고를 더 넓게 쓸 수 있겠어!,I can use the warehouse more widely!,倉庫をもっと広く使える！
+455,desc_reward_cart_2,짐을 쉽게 옮길 수 있겠어!,I can easily move my luggage!,荷物は簡単に移動できます！
+456,desc_reward_fire_2,따듯한 요리를 \n잔뜩 할 수 있을 것 같아!,I think I can cook a lot of warm dishes!,温かい料理がたくさん作れると思います！
+457,desc_reward_hammock_2,기분 좋은 낮잠을 \n잘 수 있을 것 같아!,I think I can sleep \nwith a pleasant nap!,\nwith楽しい昼寝ができると思います！
+458,desc_reward_straw_2,한적한 오후를 \n보낼 수 있을 것 같아!,I think I can spend a quiet afternoon \n!,私は静かな午後\nを過ごすことができると思います！
+459,desc_reward_water_2,시원한 여름을 \n보낼 수 있을 것 같아!,I think I can have a cool summer \n!,私は涼しい夏\nを持つことができると思います！
+460,desc_reward_well_2,깨끗한 물을 마실 수 있겠어!,I can drink clean water!,きれいな水が飲めます！
+461,desc_reward_milk_2,든든한 하루가 될 것 같아!,I think it will be a strong day!,強い日になると思います！
+462,desc_reward_mini01_2,곧 피어날 것만 같아!,I think it will bloom soon!,もうすぐ咲くと思います！
+463,desc_reward_mini02_2,집보다 크게 자랄 것 같아!,I think it will grow bigger than home!,家より大きくなると思います！
+464,desc_reward_mini03_2,비밀도 털어 놓을 수 있을 것 같아!,I think I can tell the secret too!,秘密も教えてくれると思います！
+465,desc_reward_mini04_2,뭐든 좋아!\n맛있는 열매가 맺힌다면!,Anything good! \nIf delicious fruit is produced!,なんでもいい！\nおいしい果物が生産されたら！
+466,desc_reward_watercan_2,어떤 색의 꽃이 필지 궁금해!,I wonder what color flowers will bloom!,花は何色咲くのかなぁ！
+467,desc_reward_guitar_2,훌륭한 연주였어!,It was a great performance!,素晴らしいパフォーマンスでした！
+468,desc_reward_mike_2,듣기 좋은 노래 소리가 들려!,I hear a good song!,いい歌が聞こえます！
+469,desc_reward_car_2,기분 좋은\n드라이브가 될 것 같아!,I think it will be a pleasant \ndrive!,楽しい\ndriveになると思います！
+470,desc_reward_field01_2,,,
+471,desc_reward_field02_2,,,
+472,desc_reward_field03_2,,,
+473,desc_reward_field04_2,,,
+474,desc_reward_slotMachine_2,어서 배추를 가지고 가보자!,"Come on, let's take the cabbage!",さあ、キャベツを取ろう！
+475,desc_reward_photo_studio_2,예쁘게 꾸미고 가보자!,Let's decorate it and go!,飾って行きましょう！
+476,desc_reward_sunbed_2,여유로운 여름을 보낼 수 있겠어!,I can spend a relaxing summer!,ゆったりとした夏が過ごせます！
+477,desc_reward_tent_2,별똥별을 보며 즐거운 밤을 보낼 수 있겠어!,You can have a good night watching the shooting stars!,流れ星を見ながらおやすみください！
+478,desc_reward_dance_floor_2,오늘은 내가 주인공!,Today I am the main character!,今日は主人公です！
+479,desc_reward_signpost_2,이 색깔로 정했어!,I decided on this color!,この色に決めました！
+480,desc_reward_big_fish_2,오늘 저녁이 기대되는걸!,I'm looking forward to this evening!,今夜が楽しみです！
+481,desc_reward_map_2,저기가 북쪽이다!,There is North!,北あり！
+482,desc_reward_telescope_2,저 멀리에 섬이 보이는 것 같아!,I think I can see an island in the distance!,遠くに島が見えると思います！
+483,desc_reward_balloon_2,토비가 기뻐하는 얼굴이 보이는 것 같아!,I think I can see Toby's happy face!,トビーの幸せそうな顔が見えると思います！
+484,desc_reward_kick_board_2,걷는 것 보다 빨라!,Faster than walking!,歩くより速い！
+485,desc_reward_skateboard_2,넘어지지 않게 조심해!,Be careful not to fall!,落下しないように注意してください。
+486,desc_reward_parasolm_2,햇빛도 무섭지 않아!,The sunlight is not scary!,日光は怖くない！
+487,desc_reward_trophy_2,이 영광을 당신에게!,This glory to you!,あなたへのこの栄光！
+488,desc_reward_flag_2,길 건널 때는 조심히!,Be careful when crossing the street!,通りを渡るときは注意してください！
+489,desc_reward_police_hat_speed_gun_2,거기! 속도를 줄이세요!,there! Slow down!,そこ！徐行！
+490,desc_reward_tube_2,물 위에 떠있는 기쁨을 즐길 수 있겠어!,You can enjoy the joy floating on the water!,水に浮かぶ喜びをお楽しみいただけます！
+491,desc_reward_pogo_stick_2,높이 높이 뛸 수 있겠어!,I can jump high!,高くジャンプできます！
+492,desc_reward_elrod_2,여기에 지하수가 있는 것 같아!,I think there is groundwater here!,ここには地下水があると思います！
+493,name_item_photo_op_01,평화로운 타이니 포레스트,Peaceful Tiny Forest,平和タイニーフォレスト
+494,name_item_photo_op_02,폭풍이 왔던 날의\n타이니 포레스트,The rainy day\nTiny Forest,嵐が来た日の\ nタイニーフォレスト
+495,name_item_photo_01,No.1 마을에 온걸 환영해,No.1. Welcome to town,No.1村に召喚歓迎して
+496,name_item_photo_02,No.2 마을 생활 방법을 알아보자,No.2. Learn how to live in town,No.2村の生活の方法を調べてみよう
+497,name_item_photo_03,No.3 촌장님의 \n배추 사랑 1,No.3. The Mayor's Love of Chinese Cabbage 1,No.3村長の\ n白菜愛1
+498,name_item_photo_04,No.4 청결한 엠마를 부탁해,No.4. Please clean Emma,No.4きれいなエマをお願い
+499,name_item_photo_05,No.5 목이 마른 맥스,No.5. Thirsty Max,No.5首乾燥マックス
+500,name_item_photo_06,No.6 돌아온 조셉,No.6. Joseph returns,No.6帰ってきたジョセフ
+501,name_item_photo_07,No.7 조셉의 부탁 1,No.7. Joseph's favor 1,No.7ジョセフのお願い1
+502,name_item_photo_08,No.8 조셉의 부탁 2,No.8. Joseph's Request 2,No.8ジョセフのお願い2
+503,name_item_photo_09,No.9 심심한 맥스,No.9. Bored max,No.9退屈マックス
+504,name_item_photo_10,No.10 청소가 필요해,No.10. I need cleaning,No.10掃除が必要
+505,name_item_photo_11,No.11 롤라의 집수리,No.11. Lola's Home Repair,No.11ローラの家の修理
+506,name_item_photo_12,No.12 수영을 하고 싶어,No.12. I want to swim,No.12水泳をしたい
+507,name_item_photo_13,No.13 촌장님의 \n배추 사랑 2,No.13. Mayor's Love of Cabbage 2,No.13村長の\ n白菜愛2
+508,name_item_photo_14,No.14 맥스의 노래를 듣고 싶어,No.14. I want to listen to Max's song,No.14マックスの歌を聞きたい
+509,name_item_photo_15,No.15 생활의 지혜,No.15. Wisdom of life,No.15生活の知恵
+510,name_item_photo_16,No.16 노래는 음악이 있어야지,No.16. Songs should have music,No.16歌は音楽がイトオヤジ
+511,name_item_photo_17,No.17 신선한 우유를 보관할 곳이 필요해,No.17. I need a place to store fresh milk,No.17新鮮な牛乳を保管場所が必要
+512,name_item_photo_18,No.18 여유를 부리는 것도 필요해,No.18. I also need to relax,No.18余裕を張ることも必要
+513,name_item_photo_19,No.19 편지가 왔어요,No.19. I have a letter,No.19手紙が来た
+514,name_item_photo_20,No.20 신입 직원이 왔어요,No.20. A new employee is here,No.20新入社員が来た
+515,name_item_photo_21,No.21 마을에 색이 필요해요,No.21. I need a color in the village,No.21村に色が必要です
+516,name_item_photo_22,No.22 촌장님 집 지붕 칠하기,No.22. Coloring the roof of the chief's house,No.22村長の家の屋根の色の変更
+517,name_item_photo_23,No.23 촌장님의 칭찬,No.23. The mayor's praise,No.23村長の賞賛
+518,name_item_photo_24,No.24 자판기 설치,No.24. Vending Machine Installation,No.24自販機設置
+519,name_item_photo_25,No.25 우리는 청결해,No.25. We are clean,No.25私たちは清潔て
+520,name_item_photo_26,No.26 부머는 언제나 추워,No.26. Boomer is always cold,No.26ブーマーはいつも寒く
+521,name_item_photo_27,No.27 잠꾸러기 데이지,No.27. Sleepy daisy,No.27寝坊デイジー
+522,name_item_photo_28,No.28 지붕에 이쁜 색이 필요해,No.28. I need a pretty color on the roof,No.28屋根にきれい色が必要
+523,name_item_photo_29,No.29 언덕의 왕자??,No.29. Prince of the Hill??,No.29丘の王子？
+524,name_item_photo_30,No.30 우리집 벽이 이상해,No.30. The wall of my house is strange,No.30我が家の壁が変
+525,name_item_photo_31,No.31 제스퍼를 보았니?,No.31. Have you seen Jasper?,No.31ジャスパーを見たかい？
+526,name_item_photo_32,No.32 릴리가 필요해,No.32. I need lily,No.32リリーが必要
+527,name_item_photo_33,No.33 페인트는 아름다워,No.33. The paint is beautiful,No.33塗料は美しく
+528,name_item_photo_34,No.34 택배 왔어요,No.34. I'm home delivery,No.34宅配便来た
+529,name_item_photo_35,No.35 깨진 유리는 위험해,No.35. Broken glass is dangerous,No.35割れたガラスは危険
+530,name_item_photo_36,No.36 곰들은 심심해,No.36. Bears are bored,No.36クマは退屈
+531,name_item_photo_37,No.37 맥스를 기쁘게 해주고 싶어,No.37. I want to please Max,No.37マックスを喜ばせるたい
+532,name_item_photo_38,No.38 커다란 보관통이 필요해,No.38. I need a big storage bin,No.38大きなボグァントンが必要
+533,name_item_photo_39,No.39 싱거운 우유는 안돼!,No.39. No fresh milk!,No.39薄いミルクはない！
+534,name_item_photo_40,No.40 편하게 짐을 옮기자,No.40. Let's move the luggage comfortably,No.40楽荷物運ぼう
+535,name_item_photo_41,No.41 정리 정돈을 잘하자,No.41. Let's tidy up,No.41整理整頓をよくしよう
+536,name_item_photo_42,No.42 보관통이 더 필요해,No.42. I need more storage bins.,No.42ボグァントンが必要
+537,name_item_photo_43,No.43 신선한 우유를 모아둘 것이 필요해,No.43. I need to collect fresh milk,No.43新鮮な牛乳を集めておくことが必要で
+538,name_item_photo_44,No.44 꽃을 키우자,No.44. Let's grow flowers,No.44花を育てよう
+539,name_item_photo_45,No.45 화분도 잘 키운다구!!,No.45. I also grow pots well!!,No.45花粉もよく育てる区！
+540,name_item_photo_46,No.46 멀리 나갈 수 있는 차가 필요해,No.46. I need a car that can go far,No.46離れていくことができる車必要
+541,name_item_photo_47,No.47 작은 친구를 키워보자,No.47. Let's raise a small friend,No.47小さな友達を育ててみよう
+542,name_item_photo_48,No.48 곧 어른이 될 나무를 키우자,No.48. Let's grow a tree that will soon become an adult,No.48すぐ大人になる木を育てよう
+543,name_item_photo_49,No.49 나무와 꽃을 돌봐주자,No.49. Let's take care of trees and flowers,No.49木や花の世話をするランナー
+544,name_item_photo_50,No.50 낚시가 궁금해,No.50. I'm curious about fishing,No.50釣りが気に
+545,name_item_photo_51,No.51 나는 낚시판다!,No.51. I am fishing!,No.51私の釣りパンダ！
+546,name_item_photo_52,No.52 처음 보는 친구가 있어,No.52. I have a friend I see,No.52初めて見る友人がいて
+547,name_item_photo_53,No.53 스머지는 밤이 무서워,No.53. The smudge is scary at night,No.53指先は夜が怖い
+548,name_item_photo_54,No.54 내 눈은 원래 이렇다구!,No.54. My eyes are like this!,No.54私の目は、元のようだよ！
+549,name_item_photo_55,No.55 택배 왔어요,No.55. I'm home delivery,No.55宅配便来た
+550,name_item_photo_56,No.56 오스카는 어디갔지?,No.56. Where is Oscar?,No.56オスカーはどこに行ったの？
+551,name_item_photo_57,No.57 나는야 창고지기,No.57. I am a warehouse keeper,No.57私よ倉庫番
+552,name_item_photo_58,No.58 정확한 알람,No.58. Accurate alarm,No.58正確なアラーム
+553,name_item_photo_59,No.59 테디는 어디갔지?,No.59. Where is Teddy?,No.59テディはどこに行ったの？
+554,name_item_photo_60,No.60 마을의 자랑,No.60. Town pride,No.60村の誇り
+555,name_item_photo_61,No.61 니들이 사진을 알아?,No.61. Do you guys know the picture?,No.61ニードルの写真を知っている？
+556,name_item_photo_62,No.62 사과를 부르는 뉴턴,No.62. Newton calling an apple,No.62リンゴを呼ぶニュートン
+557,name_item_photo_63,No.63 오늘도 달리는 록키,No.63. Rocky running today,No.63今日走るロッキー
+558,name_item_photo_64,No.64 최고의 커플을 반겨주자,No.64. Let's greet the best couple,No.64最高のカップルを歓迎し者
+559,name_item_photo_65,No.65 소중한 캘리를 위해서,No.65. For precious callie,No.65大切なカリフォルニアのために
+560,name_item_photo_66,No.66 길 건너 새 친구,No.66. New friends across the street,No.66道を渡って新しい友達
+561,name_item_photo_67,No.67 길 잃은 펠릭스를 도와주자,No.67. Let's help the stray Felix,No.67浮遊フェリックスを助けよう
+562,name_item_photo_68,No.68 높이 많이 뛰고 싶어!,No.68. I want to jump high!,No.68高たくさん走ってみたい！
+563,name_item_photo_69,No.69 조금 특이한 새 친구,No.69. A little unusual new friend,No.69少し変わっ新しい友達
+564,name_item_photo_70,No.70 펠릭스에게 바다를!,No.70. Sea to Felix!,No.70フェリックスに海を！
+565,name_item_photo_71,No.71 안전 제일!,No.71. Safety first!,No.71安全第！
+566,name_item_photo_72,No.72 잠 많은 내 친구,No.72. My sleepy friend,No.72睡眠多くは私の友人
+567,name_item_photo_73,No.73 멀리! 더 넓게!,No.73. far! Wider!,No.73離れ！より広く！
+568,name_item_photo_74,No.74 평생의 라이벌,No.74. Lifetime rivals,No.74生涯のライバル
+569,name_item_photo_75,No.75 담판을 지어줘!,No.75. Build a fence!,No.75談判をジオジュォ！
+570,name_item_photo_76,No.76 귀엽고 건강한 내 손자!,No.76. Cute and healthy my grandson!,No.76可愛く元気な私の孫！
+571,name_item_photo_77,No.77 모모는 태양을 피하고 싶었어,No.77. Momo wanted to avoid the sun,No.77ももは、太陽を避けたかった
+572,name_item_photo_78,No.78 목이 뻐근해,No.78. My neck is stiff,No.78首凝って
+573,name_item_photo_79,No.79 길치를 도와줘!,No.79. Help Gilchi!,No.79ギルチを助けて！
+574,name_item_photo_80,No.80 정의로운 나라,No.80. A righteous country,No.80正義の国
+575,name_item_photo_81,No.81 낚시꾼끼리 통하는 텔레파시,No.81. Telepathy between anglers,No.81釣り同士通じるテレパシー
+576,name_item_photo_82,No.82 버스와 달리기 대결,No.82. Bus and running confrontation,No.82バスとランニング対決
+577,name_item_photo_83,No.83 터커와 킥보드,No.83. Tucker and kickboard,No.83タッカーとキックボード
+578,name_item_photo_84,No.84 할아부지 사랑,No.84. Grandpa love,No.84する父さん愛
+579,name_item_photo_85,No.85 언덕은 너무 더워,No.85. The hill is too hot,No.85の丘は、あまりにも暑く
+580,name_item_photo_86,No.86 물탐지의 달인,No.86. Master of Water Detection,No.86水検出の達人
+581,name_item_photo_87,No.87 내 친구 제이크,No.87. My friend jake,No.87私の友人ジェイク
+582,name_item_photo_88,No.88 제이크의 역습,No.88. Jake's Counterattack,No.88ジェイクの逆襲
+583,name_item_photo_89,No.89 해먹이 좁아,No.89. The hammock is narrow,No.89ハンモックが狭く
+584,name_item_photo_90,No.90 큰 택배가 왔어요!,No.90. Big courier came!,No.90大きな宅配便が来た！
+585,name_item_photo_91,No.91 여유로운 베일리,No.91. Laid-back bailey,No.91ゆったりベイリー
+586,name_item_photo_92,No.92 명탐정 덱스터?,No.92. Detective Dexter?,No.92名探偵デクスター？
+587,name_item_photo_93,No.93 스머지와 함께 춤을!,No.93. Dance with Smudge!,No.93指先とダンスを！
+588,name_item_photo_99,No.99 평화로운 타이니 포레스트!,No.99. Peaceful Tiny Forest!,No.99平和タイニーフォレスト！
+589,desc_item_photo_op_01,평화로웠던 마을,A peaceful village,平和だった村
+590,desc_item_photo_op_02,엄청나게 큰 폭풍이 왔던 날,The day when a huge storm came,ジャンボ嵐が来た日
+591,desc_item_photo_01,저기 봐! 조지 촌장님이야! 건강하셔서 다행이다!,Look over there! It's Chief George! I'm glad you're healthy!,そこを見て！ジョージ村長だ！健康いただきよかった！
+592,desc_item_photo_02,버스를 타고 가 볼까?,Shall we go by bus?,バスに乗ってみようか？
+593,desc_item_photo_03,롤라의 집이 바퀴벌레에게 점령당했어...!,Lola's house is captured by a cockroach...!,ローラの家がゴキブリに占領退役...！
+594,desc_item_photo_04,"역시 엠마야, 더러운건 절대 용서 못한다니까.","Emma too, I can't forgive dirty things.",やはりエマよ、汚れは絶対に許さないから。
+595,desc_item_photo_05,물에 비치는게 신기한걸까?,Is it magical to see in the water?,水に映るのが不思議なのだろうか？
+596,desc_item_photo_06,조셉이 이제 막 도착했어.,Joseph has just arrived.,ジョセフが今まさに到着した。
+597,desc_item_photo_07,조셉의 우유니까 믿고 마실 수 있어!,"Because it is Joseph's milk, you can trust and drink it!",ジョセフの牛乳から信じ飲むことができて！
+598,desc_item_photo_08,무사히 심바에게 도착해야 할 텐데.,I should have arrived at Simba safely.,無事シンバに到着しなければならないでしょう。
+599,desc_item_photo_09,이렇게 모여 있으니 꼭 폭풍이 오기 전과 같아.,It is like this before the storm came.,このように集まっているので、ぜひ嵐が来る前に思える。
+600,desc_item_photo_10,엠마는 정말 대단해...,Emma is really great...,エマは本当にすごい...
+601,desc_item_photo_11,롤라가 잘 배웠을까?,Did Lola learn well?,ローラはよく学びのだろうか？
+602,desc_item_photo_12,오리들이 행복해 보여서 다행이야.,I'm glad the ducks seem happy.,アヒルが幸せ見えよかった。
+603,desc_item_photo_13,올해도 풍년이겠는걸?,Is this a good year?,今年も豊作イゲトホウ？
+604,desc_item_photo_14,맥스가 엄청나게 열창중인걸...?,Max is incredibly enthusiastic...?,マックスが信じられないほど熱唱中だもの...？
+605,desc_item_photo_15,오늘의 선생님 발루!,Today's teacher Baloo!,今日の先生ヴァ！
+606,desc_item_photo_16,맥스의 기타 실력이 많이 화려해졌는걸...?,Max's guitar skills are getting gorgeous...?,マックスのその他の実力がたくさん派手なっホウ...？
+607,desc_item_photo_17,어서 친구들이 돌아왔으면 좋겠다.,I want my friends to come back soon.,是非お友達が帰ってきたら良いだろう。
+608,desc_item_photo_18,오늘 날씨가 너~무 좋다!,The weather is good for you today!,今日の天気があなた〜無いい！
+609,desc_item_photo_19,발루가 편지 배달을 가나봐! 내 편지도 있을까?,Baloo's going to deliver the letter! Will there be my letter?,ヴァがメール配信を行く見て！私の手紙もあるか？
+610,desc_item_photo_20,아리아가 다음 버스 시간을 확인하나봐.,Aria is checking the next bus time.,アリアは次のバスの時間を確認してるみたい。
+611,desc_item_photo_21,아리아가 꼼꼼하게 챙겨왔어.,Aria has meticulously taken care of.,アリアが入念に用意してきた。
+612,desc_item_photo_22,촌장님 괜찮아요?,Are you okay?,村長大丈夫ですか？
+613,desc_item_photo_23,신선한 배추다!,Fresh cabbage!,新鮮なキャベツだ！
+614,desc_item_photo_24,궁금한데 한번 써 볼까?,"I'm curious, shall we try it out?",思ってしまう一度書いてみようか？
+615,desc_item_photo_25,청소는 맡겨 주시라!,Please leave the cleaning!,クリーニングはお任せいただきなさい！
+616,desc_item_photo_26,안그런척 하면서도 잭이 그립나봐.,"I pretend I'm not, but I miss Jack.",アングロンチャックながらもジャックがグリップみたい。
+617,desc_item_photo_27,꼭꼭 숨어라 데이지 꼬리 보인다!,Be sure to hide the daisy tail!,しっかり隠れとデイジー尾に見える！
+618,desc_item_photo_28,어디 한 번 시작 해 볼까?,Where to start?,ここで一度開始してみよう？
+619,desc_item_photo_29,나는야 밀림의 왕자 테디!,"I'm Teddy, the prince of the jungle!",私はよ密林の王者テディ！
+620,desc_item_photo_30,"아니, 벽 틈으로 세이디가...!","No, Saddy is going through the wall...!",いや、壁の隙間からセイディが...！
+621,desc_item_photo_31,맥스는 지치지도 않나봐.,Max is not exhausted.,マックスは疲れもないかを見る。
+622,desc_item_photo_32,"저기 봐, 릴리가 여유롭게 산책중이야.","Look over there, Lily is taking a leisurely stroll.",そこを見て、リリーが散歩中だ。
+623,desc_item_photo_33,아리아 추천 페인트! 이건 꼭 사야해!,Aria recommended paint! You must buy this!,アリアオススメ塗料！これぜひ購入するし！
+624,desc_item_photo_34,"세상에서 제일 반가운 손님, 우체부!","The most welcome guest in the world, the postman!",世界で一番嬉しいのゲスト、郵便配達！
+625,desc_item_photo_35,튼튼한 새 창문 완공 기념!,Celebrate the completion of the new sturdy window!,丈夫な新しい窓完成記念！
+626,desc_item_photo_36,심바가 엄청 심심해 하고 있어,Simba is very bored.,シンバがすごく退屈していて
+627,desc_item_photo_37,역시 심바야... 엄청난걸?,"After all, it’s Simba…",やはりシンバだ...巨大なもの？
+628,desc_item_photo_38,이게... 뭐지?,What is this?,これ...何？
+629,desc_item_photo_39,추적추적 비오는 날,Tracking Rainy days,トレーストレース雨の日
+630,desc_item_photo_40,셋이서 힘을 합치면 할 수 있어!,You can do it by joining forces in three!,三人の力を合わせればできる！
+631,desc_item_photo_41,촌장님은 쥐가 무서우신가봐.,The boss may be afraid of rats.,村長は、ラットがムソオシンみたい。
+632,desc_item_photo_42,이 짐들을 어떻게 한담...,How to talk about these loads...,このジムをどのように雑談...
+633,desc_item_photo_43,소들의 기념 우유!,Cow's commemorative milk!,牛の記念牛乳！
+634,desc_item_photo_44,맥스가 엄청 행복 해 하고 있어.,Max is very happy.,マックスがすごく幸せにしている。
+635,desc_item_photo_45,이 마을에서 제일 크게 자랄 예정!,Will grow the biggest in this town!,この町で一番大きく育つ予定！
+636,desc_item_photo_46,"루시, 거긴 어떻게 들어간거야?","Lucy, how did you get in there?",ルーシー、そこはどのように入ったの？
+637,desc_item_photo_47,꽃 봉오리가 생겼네?,You have a bud?,芽が芽生えた？
+638,desc_item_photo_48,"여기 봐, 작은 열매가 열렸어!","Look here, the little fruit is open!",ここで見て、小さな実がヨルリョトオ！
+639,desc_item_photo_49,롤라에게 작은 친구가 생겼나봐.,Lola must have a small friend.,ローラに小さなお友達ができたみたい。
+640,desc_item_photo_50,오늘 저녁은 생선 요리다!,This evening is fish!,夜は魚料理だ！
+641,desc_item_photo_51,가끔 안 풀릴 때도 있는거야.,Sometimes it doesn't work out.,時々ない解ける時も有る。
+642,desc_item_photo_52,맥스 진정해!,Calm down Max!,マックス簡単！
+643,desc_item_photo_53,밤 길은 무섭지...,The road at night is scary...,夜の道怖く...
+644,desc_item_photo_54,겉보기로 판단하면 안돼.,You can't judge by appearance.,一見で判断するとありません。
+645,desc_item_photo_55,뭐가 들었을까?,What did you hear?,何を聞いたのだろう？
+646,desc_item_photo_56,"길 건너에 작은거, 오스카 아냐?","Small across the street, isn't it Oscar?",通りの向こう側に小さなこと、オスカーじゃないの？
+647,desc_item_photo_57,왜 여기에서 자고 있는거야...?,Why are you sleeping here...?,なぜここで眠っているの...？
+648,desc_item_photo_58,12시까지 앞으로 10분!,10 minutes forward until 12 o'clock!,12時まであと10分！
+649,desc_item_photo_59,어디냐 테디!,Where is Teddy!,どこかテディ！
+650,desc_item_photo_60,무려 70년 전통...!,What a 70-year tradition...!,なんと70年の伝統...！
+651,desc_item_photo_61,모르면 알려줄테니 떨어지렴 맥스...,"If you don't know, I'll let you go. Max...",知らなければ、通知ので落ち簾マックス...
+652,desc_item_photo_62,뉴턴이 무언가 깨달았을까?,Did Newton realize something?,ニュートンが何かに気づいたのだろう？
+653,desc_item_photo_63,이로써 강아지 사총사 완성!,This completes the Dog Musketeers!,これにより、犬サチョンサ完成！
+654,desc_item_photo_64,역시 베스트 커플이야,Best couple,やはりベストカップルだよ
+655,desc_item_photo_65,남의 집에 막 가는거 아니야!,I'm not just going to someone else's house!,他人の家にばかり行くんじゃないの！
+656,desc_item_photo_66,오늘도 나라가 열심입니다,The country is still eager today,今日の国が熱望している
+657,desc_item_photo_67,저기에 뭔가 쓰러져있어.,There's something down there.,そこに何か倒れている。
+658,desc_item_photo_68,정말 우주로 가버리는줄 알았어...,I thought you were really going to space...,本当に宇宙に行ってしまうと思った...
+659,desc_item_photo_69,저건 설마... 인어!?,That's... Mermaid!?,あれまさか...人魚！？
+660,desc_item_photo_70,과연 펠릭스는 멀미를 이겨 낼 수 있을까...!,Will Felix be able to overcome motion sickness...!,果たしてフェリックスは吐き気を勝って出すことができるか...！
+661,desc_item_photo_71,그러라고 준 깃발이 아닐텐데!,It might not be the flag you gave me!,そうだと準旗ではないだろう！
+662,desc_item_photo_72,이러다 내 친구가 밟히면 어쩌지?,What if my friend stepped on like this?,クロム私の友人が踏まひばどう？
+663,desc_item_photo_73,바다 위 무인도를 보고 싶다는 로망,The romance of wanting to see a desert island above the sea,海の上無人島を見たいというロマン
+664,desc_item_photo_74,티거와 올리버의 단판승부!,Tigger and Oliver's single game!,ティガーとオリバーの一本勝負！
+665,desc_item_photo_75,올리버의 승리로 끝나...!,Oliver's victory ends...!,オリバーの勝利で終わって...！
+666,desc_item_photo_76,토비가 촌장님을 정말정말 좋아하는구나,Toby really likes the mayor.,トビーが村長を本当に好きなんだ
+667,desc_item_photo_77,이제 낮에도 괜찮겠지?,Is it okay in the daytime now?,今昼も大丈夫だろう？
+668,desc_item_photo_78,편해보여서 다행이다.,I'm glad you seem comfortable.,楽見え幸いだ。
+669,desc_item_photo_79,지도... 그것은 너무 어려운 것!,Map... It's so hard!,地図...それはあまりにも難しいこと！
+670,desc_item_photo_80,이 나라에게 맡겨 주시라!,Leave it to this country!,この国に任せていただくと！
+671,desc_item_photo_81,이게! 내! 연어다!,this! of mine! Salmon!,これ！私！鮭だ！
+672,desc_item_photo_82,아니? 맥스도 버스랑 시합중이었어!?,no? Max was also playing against the bus!?,いや？マックスもバスラング試合中だった！？
+673,desc_item_photo_83,빠름+빠름=아주 빠름!,Fast+fast=very fast!,高速+高速=非常に高速！
+674,desc_item_photo_84,할아부지 짱이다!,It's great!,する父さんちゃんだ！
+675,desc_item_photo_85,우물에 선객이...?,The crew at the well...?,井戸に船客が...？
+676,desc_item_photo_86,맥스에게서 반응이...!?,The reaction from Max...!?,マックスからの反応が...！？
+677,desc_item_photo_87,여유를 즐긴다고 해서 느린건 아냐!,It's not slow to just enjoy it!,余裕を楽しむと言って遅いじゃない！
+678,desc_item_photo_88,스케이트 보드의 달인 제이크!,Skateboard master Jake!,スケートボードの達人ジェイク！
+679,desc_item_photo_89,그 해먹은 내 해먹이었는데...,That hammock was my hammock...,そのハンモックは、私のハンモックだった...
+680,desc_item_photo_90,괜찮아 이젠 베일리 전용이니까!,"It's okay, now it's only for Bailey!",大丈夫もうベイリー専用だから！
+681,desc_item_photo_91,역시 덱스터야. 강을 건너오다니!,Dexter too. Crossing the river!,やはりデクスターよ。川を渡ってくると！
+682,desc_item_photo_92,그건 내 튜브인데...,That's my tube...,それは私のチューブのに...
+683,desc_item_photo_93,오른쪽! 오른쪽! 왼... 어라? 뭔가 이상해.,Right side! Right side! Left... what? Something weird,右！右！左...あれ？何か変。
+684,desc_item_photo_99,아름다운 마을이 돌아왔어!! 고마워!,Beautiful village is back!! Thanks!,美しい村が戻ってきた！ありがとう！
+685,dialogue_000,,,
+686,dialogue_001,,,
+687,dialogue_002,,,
+688,dialogue_003,,,
+689,dialogue_004,,,
+690,dialogue_005,,,
+691,dialogue_006,,,
+692,dialogue_007,,,
+693,dialogue_008,,,
+694,dialogue_009,,,
+695,dialogue_010,,,
+696,dialogue_011,,,
+697,dialogue_012,,,
+698,dialogue_013,,,
+699,dialogue_014,"혹시, 이런게 필요해??",Do you need this??,もしかしたら、こんなの必要？
+700,dialogue_015,내 선물이야!,It's my gift!,私の贈り物だよ！
+701,dialogue_016,동그란 눈이 멋지지?,Nice round eyes?,丸い目が素敵でしょ？
+702,dialogue_017,내 눈을 본거야? 바다와 같이 이쁘지?,Have you seen my eyes? Isn't it pretty like the sea?,私の目を見たのですか？海のようにきれいで？
+703,dialogue_018,나랑 같이 마을 구경을 할까?,Would you like to visit the town with me?,私と一緒に村口径をするか？
+704,dialogue_019,촌장님은 배추만 좋아해!,The chief only likes cabbage!,村長は白菜だけ好き！
+705,dialogue_020,따듯한 날이 너무 좋아,I love a warm day,暖かい日が大好き
+706,dialogue_021,나랑 같이 달리기를 해 볼래?,Would you like to run with me?,私と一緒にランニングをしてみる？
+707,dialogue_022,같이 자판기에 놀러갈까?\n자판기에서는 즐거운일이 많다구!,Would you like to go to the vending machine together?\nThere are a lot of fun at the vending machine!,のように自動販売機に遊びに行こうか？\ n自動販売機では、楽しいことが多いよ！
+708,dialogue_023,룰루~~ 룰루~~ 노래를 불러볼까?,Lulu~~ Lulu~~ Shall we sing a song?,ルル~~ルル~~歌を歌ってみようか？
+709,dialogue_024,내가 숨겨둔 음식이 어딘가로 사라졌어. 간식줘!,The food I hid was gone somewhere. Give me a snack!,私隠した食べ物がどこかに消えた。おやつを与える！
+710,dialogue_025,가끔 마을 아래 도로에 과속을 하는 펭귄이 있대,Sometimes there's a penguin speeding on the road down town,時々村の下の道路にスピード違反をするペンギンがあるんだって
+711,dialogue_026,같이 사색할까?,Shall we speculate together?,のように推測するか？
+712,dialogue_027,어디에 사과 나무가 있을까?,Where is the apple tree?,どこリンゴの木があるか？
+713,dialogue_028,나는 사색하는게 좋아,I like to think,私は思索するのが好き
+714,dialogue_029,오늘은 무슨 생각을 했어?,What were you thinking today?,今日は何を考えてたの？
+715,dialogue_030,느리게 걷기중이야.,I'm walking slowly.,ゆっくり歩くのだ。
+716,dialogue_031,맥스는 자판기만 좋아해,Max only likes vending machines.,マックスは自動販売機が、好き
+717,dialogue_032,번뜩이는 아이디어가 생각났어!,I came up with a brilliant idea!,光らせるアイデアが思い出した！
+718,dialogue_033,펠리컨 아저씨는 늘 바빠,Mister Pelican is always busy,ペリカンおじさんはいつも忙しく
+719,dialogue_034,버스 정류장에 가봤어?,Have you been to the bus stop?,バス停に行った事が？
+720,dialogue_035,뛰어노는 것을 좋아해,I like to run,優れ遊ぶこと好き
+721,dialogue_036,마음대로 뛰어 놀 수 있어~~,You can play freely~~,勝手に遊べることができ、~~
+722,dialogue_037,운동 좋아해??,Do you like exercise??,運動好き？
+723,dialogue_038,헛둘! 헛둘!!,Vain! Absurd!!,ホトヅル！ホトヅル！
+724,dialogue_039,운동하고 나면 너무 상쾌해~,"After exercise, it is so refreshing~",運動した後もさわやかて〜
+725,dialogue_040,원반던지기 하자!,Let's throw the disc!,円盤投げしよう！
+726,dialogue_041,오늘은 같이 걸어볼까?,Shall we walk together today?,今日は一緒に歩いてみよう？
+727,dialogue_042,달려 달려!!,Run run!!,走って走って！
+728,dialogue_043,하루 만보는 기본이지,It's a basic one day walk,一日万歩は、基本的で
+729,dialogue_044,맥스가 어디갔지???,Where is Max???,マックスはどこに行ったの？
+730,dialogue_045,나는 맥스가 좋아,I like max,私はマックスが好き
+731,dialogue_046,맥스와 함께 있고 싶어,I want to be with Max,マックスと一緒にいたい
+732,dialogue_047,맥스는 밥을 먹었나?,Did Max eat?,マックスはご飯を食べた？
+733,dialogue_048,맥스도 나를 생각할까?,Does Max think of me?,マックスも私と思うか？
+734,dialogue_049,누군가를 좋아하는건 즐거운 일이야,It's fun to like someone.,誰かを好きのは楽しいことだ
+735,dialogue_050,저기 맥스가 지나간다~!,There is Max~!,そこマックスが通り過ぎる〜！
+736,dialogue_051,맥스에게 편지를 써볼까?,Should I write a letter to Max?,マックスに手紙を書いてみようか？
+737,dialogue_052,맥스찾아 삼만리~!,"Looking for Max, Sam-ri!",マックスたずねて三千里〜！
+738,dialogue_053,자유로운 영혼이야,Free spirit,自由な魂よ
+739,dialogue_054,나는 낭만 고양이라구!,I'm a romantic cat!,私はロマンチックな猫プラグ！
+740,dialogue_055,기억해 제스퍼!,Remember Jasper!,覚えジャスパー！
+741,dialogue_056,마을 언덕에 누군가 있다는 소문이야!,It's a rumor that someone is on the hill in the village!,村丘の上に誰か噂だよ！
+742,dialogue_057,낚시를 잘하면 좋겠어. 혹시 낚시 잘해?,I wish you good fishing. Are you good at fishing?,釣りをうまくいけばたい。もしかしたら釣り上手？
+743,dialogue_058,산책 다니길 좋아해,I like to go for a walk,散歩ダニギル好き
+744,dialogue_059,오늘도 즐거운 산책길,Today's fun walking trail,今日も楽しい散歩道
+745,dialogue_060,산책하다 만나는 다람쥐는 귀여워,The squirrel you meet while walking is cute,散歩である会うリスはかわいい
+746,dialogue_061,어딘가에 사자가 있다고 하는데….,There is a lion somewhere… .,どこかにライオンがいるのに... 。
+747,dialogue_062,식빵은 진리다,Bread is the truth,食パンは真理だ
+748,dialogue_063,오늘도 식빵굽기 좋은 날이군…,Today is a good day to bake bread...,今日も食パン書き込みの良い日だな...
+749,dialogue_064,빵을 굽자…,Let's bake...,パンをグプジャ...
+750,dialogue_065,빵…..,bread… ..,パン... 。
+751,dialogue_066,나는 겨울이 좋아….,I like winter… .,私は冬が好き... 。
+752,dialogue_067,오늘은 바빠….,I'm busy today... .,今日は忙しく... 。
+753,dialogue_068,집이 최고 꽥!,The house is the best!,家が最高クワック！
+754,dialogue_069,나는 집순이가 아니라구!,I'm not Jisoon!,私は家の順にアニラグ！
+755,dialogue_070,꽥! 꽥! 바쁘다 바빠!,Yum! Yum! Busy busy!,クワック！クワック！忙しい忙しい！
+756,dialogue_071,우편함에 뭐가 있나?,What's in the mailbox?,メールボックスに何か？
+757,dialogue_072,나는 원래 회색이라구!\n농담이야 꽥꽥!,I'm originally gray!\nIt's a joke!,私は、元のグレーなんだよ！\ n冗談鳴く！
+758,dialogue_073,내가 물에서 노는 모습을 본적있어?,Have you seen me playing in the water?,私は水で遊ぶ姿を見たことありますか？
+759,dialogue_074,나도 물에 들어가고 싶다구!,I want to get into the water too!,私の水に入りたいと思います！
+760,dialogue_075,푸른 깃털이 아름답지 꽥!,Blue feathers are beautiful!,青い羽が美しくクワック！
+761,dialogue_076,롤라는 어디있을까?,Where is Lola?,ローラはどこだろうか？
+762,dialogue_077,세이디는 너무 조용해,Seydie is too quiet,セイディはとても静か
+763,dialogue_078,푸른 깃털 본 적 있어?,Have you ever seen a blue feather?,青い羽見たことある？
+764,dialogue_079,내 깃털은 최고라구!,My feathers are the best!,私の羽は、最高プラグ！
+765,dialogue_080,커피 사러 갈래!,I want to go buy coffee!,コーヒー買いに分岐！
+766,dialogue_081,오리는 프리스비 못한다구!,Ducks can't frisbee!,アヒルはフリスビーないよ！
+767,dialogue_082,꽥!! 꽥!!,꽥!! 꽥!!,クワック！クワック！
+768,dialogue_083,뭐냐 꽥!,What is it?,なんだクワック！
+769,dialogue_084,혼자 있고 싶어,I want to be alone,一人になりたい
+770,dialogue_085,루루~~ 수영은 즐거워,Lulu~~ Swimming is fun,ルル~~水泳は楽しく
+771,dialogue_086,"이번만이야, 너도 들어와봐","Only this time, come in too",今回のみです、あなたも聞いICIの
+772,dialogue_087,오늘도 평온해,I'm calm today,今日も平穏に
+773,dialogue_088,평화로운 하루야~,It's a peaceful day~,平和ハルヤ〜
+774,dialogue_089,우유 좋아해?,Do you like milk?,牛乳好き？
+775,dialogue_090,시원한 우유는 최고라구!,Cool milk is the best!,クール牛乳は最高プラグ！
+776,dialogue_091,숲에서 뛰어놀면 즐거워,Running in the forest is fun,森の中で優れ遊べば楽しく
+777,dialogue_092,물통 굴리기 같이 할래?,Would you like to roll a bucket?,バケツ転がしのようにするか？
+778,dialogue_093,뭐 신나는일 없을까,Is there anything exciting,まあ楽しいことないか
+779,dialogue_094,힘찬 하루야~,It's a powerful day~,力強いハルヤ〜
+780,dialogue_095,숲의 그늘은 너무 시원해,The shade of the forest is so cool,森の陰はとても涼しく
+781,dialogue_096,오늘은 우체국까지 같이 산책하자!,Let's take a walk to the post office today!,今日は郵便局までのように散歩しよう！
+782,dialogue_097,수확은 즐거워,The harvest is fun,収穫は楽しく
+783,dialogue_098,일하는 기쁨을 알고 있어?,Do you know the joy of working?,働く喜びを知っている？
+784,dialogue_099,나는 계획적인 일이 좋아,I like planning things,私は計画的なことが好き
+785,dialogue_100,일 다 했어??,Are you done??,仕事尽くした？
+786,dialogue_101,우리 마을의 우유는 세계 최고!,The milk of our village is the best in the world!,私たちの町の牛乳は、世界最高！
+787,dialogue_102,노는게 뭐지??,What is playing?,遊ぶのが何？
+788,dialogue_103,창고는 수학이라고,Warehouse is called mathematics,倉庫は、数学と
+789,dialogue_104,복잡한 곳 정리는 나에게 맡겨,Organize complex places,複雑なところ整理は私に任せて
+790,dialogue_105,내 아이큐는 200이 넘어,My IQ is over 200,私のIQは200を超えて
+791,dialogue_106,수학 잘해?,Are you good at math?,数学上手？
+792,dialogue_107,청결하게 살고 싶어,I want to live clean,清潔に生きたい
+793,dialogue_108,창고를 봐야해서 멀리 못가..,I have to see the warehouse so I can't go far...,倉庫を見て離れて行け。
+794,dialogue_109,엠마는 현명해,Emma is wise,エマは賢明し
+795,dialogue_110,정리하는거 좋아해?,Do you like organizing?,まとめハヌンゴ好き？
+796,dialogue_111,같이 정리하자,Let's put it together,のようにまとめてみましょう
+797,dialogue_112,지금 몇시게,What time is it now,何時に
+798,dialogue_113,시계가 좋아,I like the clock,時計が好き
+799,dialogue_114,분침과 시침을 잘봐봐,Look at the minute and hour hands,分針と時針をよくみてみ
+800,dialogue_115,째깍 째깍~!,Ticking ticking~!,カチカチ〜！
+801,dialogue_116,나도 시계를 만들어 보고 싶어,I want to make a watch too,私の時計を作ってみたい
+802,dialogue_117,"안돼 안돼, 시계를 보고 있어야 해","No no, you have to look at the watch",ダメダメ、腕時計を見ている必要がありして
+803,dialogue_118,마을에 시계가 많으면 좋겠어.,I wish there were many clocks in town.,村に時計が多ければたい。
+804,dialogue_119,화가 난다!!,Angry!!,腹が立つ！
+805,dialogue_120,찰리 제발 그만 해!,"Charlie, please stop!",チャーリーください停止！
+806,dialogue_121,화가 많은 부머가 찾아왔어!,There are many angry boomers!,画家の多くの世代が見つけてきた！
+807,dialogue_122,부머는 놀리는 재미가 있어,Boomer has fun to tease.,ブーマーは厄介楽しみがあり
+808,dialogue_123,부머에게 장난을 치고 싶어,I want to play with Boomer,ブーマーにいたずらをしてたい
+809,dialogue_124,나는 장난꾸러기가 아냐!,I'm not a naughty boy!,私はいたずらではない！
+810,dialogue_125,의외로 내 털은 멋지다구!,"Surprisingly, my hair is cool!",意外に私の毛はクールよ！
+811,dialogue_126,나도 직모가 되고 싶어,I want to be a straight hair,私直毛になりたい
+812,dialogue_127,"양 한마리, 양 두마리.. 잠이 온다....","One sheep, two sheep... sleep....",両一匹、羊二匹。睡眠が来る....
+813,dialogue_128,머리를 하러 갈까,Should I go do my hair,頭をしに行こうか
+814,dialogue_129,나를 만지고 싶은거 알아,I know you want to touch me,私触れたい知っている
+815,dialogue_130,너 오늘 옷 좀 괜찮다?,Are you okay with your clothes today?,あなた今日いくつかの服大丈夫？
+816,dialogue_131,알아봤구나. 오늘 미용실 갔다 왔지><,You know. I went to a beauty salon today><,知っているブワトグナ。今日美容院に行った来た> <
+817,dialogue_132,어머 고마워라. 우리집에가서 티타임이라두?,Thank you Go to my house and say it's tea time?,あらありがとうなさい。我が家に行っティータイムイラヅ？
+818,dialogue_133,오늘 나 쫌 예뻐?,Is she pretty today?,今日私ちょっときれい？
+819,dialogue_134,"뭐야, 웃지말라구","What, don't laugh",なんだ、笑うなよ
+820,dialogue_135,오늘 늦잠을 자서.. 머리를 못 했더니.. 비웃지마..,I slept late today... I couldn't do my hair... Don't laugh.,今日寝坊して。頭を釘したところ。嘲笑しない。
+821,dialogue_136,신난다 나랑 쇼핑갈래?,"Exciting, would you like to go shopping with me?",恐ろしい私とショッピング行く？
+822,dialogue_137,내 가슴무늬는 멋져,My chest pattern is cool,私の胸の柄は素晴らしい
+823,dialogue_138,맛있는 배추를 노리고 있어,I'm looking for delicious Chinese cabbage,おいしい白菜を狙っており、
+824,dialogue_139,배추가 너무 좋아!,Chinese cabbage is so good!,白菜が大好き！
+825,dialogue_140,젤리가 아니라 곰,Not jelly,ゼリーではなく、クマ
+826,dialogue_141,맛있는 우유를 찾고 있어,I'm looking for delicious milk,おいしい牛乳を探している
+827,dialogue_142,우유를 좋아해,I like milk,牛乳が好き
+828,dialogue_143,"헤이 브라더, 이건 멍이 아니라구.","Hey Brother, this is not a bruise.",ヘイブラザー、これあざアニラグ。
+829,dialogue_144,오해는 싫어,I hate misunderstandings,誤解は嫌い
+830,dialogue_145,나는 귀한몸이라구!,I'm a precious body!,私は大事な体なんだよ！
+831,dialogue_146,친구들을 어디있지,Where are your friends,友人をどこ
+832,dialogue_147,많은 친구들을 만들고 싶어 해,I want to make a lot of friends,多くの友人を作りたいし
+833,dialogue_148,세이디가 친구를 만들러 왔다!,Seydie is here to make friends!,セイディは友達を作りにきた！
+834,dialogue_149,고마워요. 저랑 친구할래요?,Thank you. Will you be friends with me?,ありがとう。私と友人チート？
+835,dialogue_150,만난지 얼마 안됐지만 고마워요,"It's been a while, but thank you.",会っいくらならなかったがありがとう
+836,dialogue_151,저도 당신이 좋아요,I like you too,私もあなたが好きです
+837,dialogue_152,우리 같이 놀아요. 즐거울거에요,Let's play together. It will be fun,私たちのように身も凍る。楽しいよ
+838,dialogue_153,같이 노는건 언제나 신나요.,It's always fun to play together.,のように遊ぶのはいつも興奮。
+839,dialogue_154,당신 너무 귀여워요. 친구하고 싶어요.,You are so cute. I want to be friends.,あなたもかわいい。友達したいです。
+840,dialogue_155,오늘도 시원한 물!,Cool water today!,今日も冷たい水！
+841,dialogue_156,깊은 우물을 찾고 있어,I'm looking for a deep well,深い井戸を探している
+842,dialogue_157,물에서 노는걸 좋아해,I like to play in the water,水で遊ぶのが好き
+843,dialogue_158,롤라와 같이 놀고 싶은데 나를 좋아하겠지?!,"I want to play with Lola, but would you like me?!",ローラのように遊んでたい私を好きだろ？！
+844,dialogue_159,배추를 먹어도 될까?,Can I eat Chinese cabbage?,白菜を食べてもなるか？
+845,dialogue_160,물개를 본적이 있어요!,I've seen seals!,シールを見たことがあります！
+846,dialogue_161,자동차에 타보고 싶어요.,I want to ride a car.,自動車に乗ってみたい。
+847,dialogue_162,촌장님은 개그맨이야,The mayor is a comedian.,村長はコメディアンだよ
+848,dialogue_163,조지 촌장님과 함께 놀고 싶대,He wants to play with Chief George.,ジョージ村長様と一緒に遊んでオーレ
+849,dialogue_164,개구쟁이 토비가 찾아왔어!,Naughty Toby is here!,少年トビーが見つけてきた！
+850,dialogue_165,옆동네는 자판기가 유행이래,The vending machine next door is fashionable,隣町は自動販売機が流行以来
+851,dialogue_166,버스를 타면 다양한 곳을 갈 수 있어,You can go to various places by bus.,バスに乗る様々な場所に行くことができ、
+852,dialogue_167,버스값이 의외로 비싼데?,The bus is surprisingly expensive?,バス値が意外に高価なために？
+853,dialogue_168,얼마전 숲에서 기린을 봤어,I saw a giraffe in the woods a while ago.,この間森でキリンを見た
+854,dialogue_169,그거 알아? 펭귄이 우리 마을에 있다는걸?,I know that? Penguins are in our village?,知っている？ペンギンが私たちの町にあるホウ？
+855,dialogue_170,언덕너머에서 작은별을 보았어,I saw a little star over the hill,丘の上から小さな星を見た
+856,dialogue_171,자네왔는가?,Are you here?,あなた来たか
+857,dialogue_172,배추 키우기는 맡겨둬!,Leave growing cabbage!,白菜育てるには任せておいて！
+858,dialogue_173,오늘은 배추를 보았는가?,Did you see cabbage today?,今日は白菜を見たか
+859,dialogue_174,배추는 언제나 사랑스럽지,Chinese cabbage is always lovely,白菜はいつも愛らしい
+860,dialogue_175,새싹이 돋아날때 즐거움이란..,"When buds sprout, joy is...",新芽が生え覚ます楽しみと。
+861,dialogue_176,"배추 하나, 배추 둘, 배추...","One cabbage, two cabbage, Chinese cabbage...",白菜一、白菜二、白菜...
+862,dialogue_177,응?? 신기한 배추를 보여준다고?,Huh?? You show a strange cabbage?,うん？不思議な白菜を見せてくれる？
+863,dialogue_178,어디 한번 달려볼까? 후하후하,Where shall we run? Hahahaha,どこ一度走ってみようか？後ハーフな
+864,dialogue_179,달리기 시합을 할 수 있는 곳을 알려줘,Tell me where you can compete for a run,ランニング試合をすることができる場所を教えて
+865,dialogue_180,날쌘돌이!!,Sharp!,素早い石！
+866,dialogue_181,얼굴이 발그레한게 10키로는 뛰었나봐?,Does your face have a red color and run with 10 keys?,顔がバラ色たのが10キロは走ったのか？
+867,dialogue_182,좋아해.....나도 달리는거 좋아해,I like it...I like running too,好き.....私走るだろ好き
+868,dialogue_183,숨이차서 얼굴이 빨건거야? 그럴땐 후.하.후.하 들숨. 날숨,"Is your face red because of shortness of breath? Then, ha ha ha ha. Exhalation",膨化顔がパルゴンか？その時の後に。ハ。後。ハドゥルスム。呼気
+869,dialogue_184,달리는게 제일 즐겁다구,I like running the most.,走るのが一番楽しい区
+870,dialogue_185,웃지만 말고 호흡을 가다듬고 뛰어봐. 후.하.후.하,"Don't laugh, but just breathe and run. Whoa. Whoa.",笑うがなく呼吸を整えて優れていてください。した。ハ。後。ハ
+871,dialogue_186,같이 달리자! 마음이 상쾌해질거야.,Let's run together! Your mind will be refreshed.,のように走ろう！心がリフレッシュになるだろう。
+872,dialogue_187,터커는 너무 빨라,Tucker is too fast,タッカーは、あまりにも速く
+873,dialogue_188,여유롭게 주변을 보고 싶어,I want to look around easily,楽々周辺を見てみたい
+874,dialogue_189,여유는 좋은 습관이야,Relaxing is a good habit,余裕は良い習慣だよ
+875,dialogue_190,어디 도토리 없나?,Where is the acorn?,どこどんぐりないか？
+876,dialogue_191,나무열매가 많은 곳으로 가고 싶대,He wants to go to a place with many fruits.,木の実が多いところに行きたいんだって
+877,dialogue_192,도토리 나무를 봤어?,Did you see the acorn tree?,どんぐりの木を見たか？
+878,dialogue_193,고마워. 나랑 같이 도토리 찾으러 갈래?,Thanks. Would you like to go and find acorns with me?,ありがとう。私と一緒にどんぐり探し行く？
+879,dialogue_194,우왕 진짜? 나두!,Whoa Really? me too!,ウ王本物？州！
+880,dialogue_195,뭐야 >< 도토리라도 줄까?,What is it?,何> <どんぐりもしたいですか？
+881,dialogue_196,도토리 빨리 먹기 게임할까?,Shall we play acorn fast?,どんぐり早食いゲームか？
+882,dialogue_197,심심해? 도토리 빨리 찾기게임은 어때?,boring? How about a quick find acorn game?,退屈？どんぐり高速検索ゲームはどうですか？
+883,dialogue_198,도토리 도토리. 신나 신나.,Acorn acorn. Exciting Exciting.,どんぐりどんぐり。シンナーシンナー。
+884,dialogue_199,데이지 도토리는 내가 숨겨뒀지롱,Daisy acorns I hid,デイジーどんぐりは私隠さドォトジロング
+885,dialogue_200,숨길게 너무 많은데?,Too many things to hide?,息長くも多い？
+886,dialogue_201,보물 찾기를 하자!,Let's find treasure!,宝探しをしよう！
+887,dialogue_202,내가 보물을 숨길거야,I will hide the treasure,私の宝物を隠すよ
+888,dialogue_203,덱스터를 이길 수가 없어~,I can't beat Dexter~,デクスターを打つことができない〜
+889,dialogue_204,바다에서 덱스터와 수영 경기를 할거야,I'm going to swim with Dexter at the sea.,海でデクスターと競泳をするつもり
+890,dialogue_205,강에서 노는게 좋아,I like to play in the river,川で遊ぶのが好き
+891,dialogue_206,덱스터 몰래 강에 가야지,"Dexter, I have to go to the river.",デクスターこっそり川に行かなくちゃ
+892,dialogue_207,수영에선 절대 안져!,Never lose in swimming!,水泳では絶対アンジョ！
+893,dialogue_208,마음껏 수영할 수 있는 곳을 알아?,Do you know where you can swim freely?,存分に泳ぐことができる場所を知っている？
+894,dialogue_209,수영 천재라고 불러줘!!,Call me a swimming genius!!,水泳天才と呼んで！
+895,dialogue_210,오늘도 수영하러 갈거야!,I'm going swimming today!,今日も泳ぎに行くよ！
+896,dialogue_211,잠수도 잘한다구!,I'm good at diving too!,潜水もよくティ！
+897,dialogue_212,부딫힌다 조심해!,Be careful!,ぶつかる砕かれる気をつけて！
+898,dialogue_213,응? 저기 캘리가 있다고??,Huh? There's Callie there??,うん？そこカリフォルニアがある？
+899,dialogue_214,내가 캘리 좋아하는건 비밀이야,It's a secret that I like Callie.,私カリフォルニア好きのは秘密だよ
+900,dialogue_215,나를 좋아하는거야???,Do you like me???,私のお気に入りです？
+901,dialogue_216,음.. 무슨 의미야?,Um... what do you mean?,うーん..何を意味するか？
+902,dialogue_217,나 놀리지 말라구~,Don't tease me~,私ナレッジなよ〜
+903,dialogue_218,듀크는 너무 덤벙거려!,Duke is too much!,デュークはとてもドムボンたて！
+904,dialogue_219,듀크는 밥을 먹었을까?,Did Duke eat?,デュークはご飯を食べたのか？
+905,dialogue_220,듀크는 사고치지 않았지?,Didn't Duke crash?,デュークは、事故打たんでした？
+906,dialogue_221,듀크는 눈이 귀여워,Duke has cute eyes,デュークは目がかわいい
+907,dialogue_222,듀크 몰래 숨어야지\n나 찾아봐라~,I have to hide behind Duke.\nFind me~,デュークこっそり隠れはず\ n私見つけてみろ〜
+908,dialogue_223,또 부딫혔어~,I broke it again~,またぶつかるたぞ〜
+909,dialogue_224,부딫히지 않을 곳을 찾고 있어,I'm looking for a place that won't break,ぶつかるひじきないところを探している
+910,dialogue_225,목이 긴 코코!,Coco with a long neck!,首の長いココ！
+911,dialogue_226,목이 뻐근해...,My neck is stiff...,首凝りして...
+912,dialogue_227,편하게 잘 수 있는 곳을 찾고 있어,I'm looking for a place to sleep comfortably,楽よくことができる場所を探している
+913,dialogue_228,키가 큰 로라!,Tall Laura!,背の高いローラ！
+914,dialogue_229,얼굴이 빨게 혈압에 주의하라구.,Watch your blood pressure so your face is red.,顔が吸うように、血圧に注意しろ。
+915,dialogue_230,긍정적인 마음가짐은 건강에 중요하지..,Positive mindset is important to your health...,肯定的な心構えは、健康に重要ではない。
+916,dialogue_231,고마워 ㅎㅎ 건강해진 기분이야,Thank you haha,ありがとう（笑）健康になった気分だよ
+917,dialogue_232,웃는건 건강에 좋지.,Smiling is good for health.,笑うことは健康に良く。
+918,dialogue_233,그렇지 그렇게 크게 웃어봐!,Laugh so loud!,そうそう大きく笑って！
+919,dialogue_234,하하하하하! 복식호흡!,Ha ha ha ha ha! Double breathing!,ハハハハハ！腹式呼吸！
+920,dialogue_235,언덕은 내가 먼저 오를거야!!!!,The hill will climb first!!!!,丘は私が最初に上がるだろう!!!!
+921,dialogue_236,사자가 있는 곳을 찾고 있다!!!!,Looking for a place where a lion is!!!!,ライオンがいる場所を探している!!!!
+922,dialogue_237,나는 강하다!,I am strong!,私は強い！
+923,dialogue_238,으아아!! 귀엽다!!!,Ahhh!! cute!!!,うわああ！かわいい！
+924,dialogue_239,뭐야!!!!! 진짜?!!! 나도!!!,what!!!!! Really?!!! I also!!!,何!!!!!本物？！私!!!
+925,dialogue_240,사랑스러워!!!!,Lovely!!!!,愛しい!!!!
+926,dialogue_241,놀자놀자!!!,Let's play!,遊ぼう遊ぼう！
+927,dialogue_242,빨리 놀자구!!!! 시간이 없어!!!,Let's play fast!!!! There is no time!!!,早く遊ぼう区!!!!時間がない！
+928,dialogue_243,표정 좋은데!!! 좋아!! 좋아!! 으아아!,It looks good!!! Good!! Good!! Ahhh!,表情いい！好き!!好き!!うわああ！
+929,dialogue_244,아냐 진짜 일등은 나야!,"No, it's really the first place!",ない本当の一等は私です！
+930,dialogue_245,티거와 시합을 해도 괜찮은 곳을 찾고 있어,I'm looking for a good place to play with Tigger.,ティガーと試合をしてもいいところを探している
+931,dialogue_246,언덕을 오르고 싶어,I want to climb a hill,丘を上がってたい
+932,dialogue_247,밤길은 맡겨둬!,Leave the night road!,夜道はお任せておいて！
+933,dialogue_248,숲이 우거진 곳을 알고 있어?,Do you know where the forest is dense?,緑豊か場所を知っている？
+934,dialogue_249,밤눈이 밝은 레오라 불러줘!,Call me Leo with bright night eyes!,夜目が明るいレオと呼んで！
+935,dialogue_250,낮은 졸려...,Low sleepy...,低い眠い...
+936,dialogue_251,낮잠을 편히 자고 싶어,I want to take a good nap,昼寝をゆっくり寝たい
+937,dialogue_252,잠이 많다구....,I have a lot of sleep...,睡眠が多い区....
+938,dialogue_253,안돼.. 졸려..,No... sleepy...,いや...眠い...
+939,dialogue_254,꿈나라에서?,In a dreamland?,夢の国で？
+940,dialogue_255,낮잠 조금 자고? ..,A little nap? ..,昼寝少し寝ている？ 。
+941,dialogue_256,꼭꼬? 꼭끼오?,Tight? Are you sure?,コクコ？ぜひキオ？
+942,dialogue_257,아침을 알릴 수 있는 곳을 찾고 있어,I'm looking for a place to announce the morning,朝を知らせることができる場所を探している
+943,dialogue_258,어설프지 않아!!,Don't be clumsy!!,生半可ない！
+944,dialogue_259,꼭꼬??,Tight,コクコ？
+945,dialogue_260,꼬꼬꼬꼬?,Kkokkokkokko?,ココココ？
+946,dialogue_261,꼭끼오?,Are you sure?,ぜひキオ？
+947,dialogue_262,꼬꼬곡?,Cuckoo?,ココ曲？
+948,dialogue_263,???,???,???
+949,dialogue_264,끼오꼭?,Kio-tuk?,食オコク？
+950,dialogue_265,꼭꼬 뭔가를 닮은 것 같다고?,You seem to resemble something?,コクコ何かに似ているようだと？
+951,dialogue_266,미스티를 챙길 수 있는 곳을 찾고 있어,I'm looking for a place to take care of Misty.,ミスティを取りまとめることができる場所を探している
+952,dialogue_267,나는 상.냥.하.다.구.,I'm good.,私は上。ニャン。ハ。だ。よ。
+953,dialogue_268,너무 사랑스러워요,So lovely,とても愛らしい
+954,dialogue_269,고마워요.*^^* 저두요,Thank you.*^^* Me too,ありがとう。* ^^ *同上
+955,dialogue_270,어머. 부끄러워요,Oh. Shy,あら。恥ずかしい
+956,dialogue_271,정말요? 우리 신나게 놀까요?,really? Shall we have fun?,本当ですか？私たち楽しく遊ぶでしょうか？
+957,dialogue_272,신난다. 같이 놀아요,exciting. let's hang out together,恐ろしい。一緒に遊んで
+958,dialogue_273,우리 뭐하고 놀까요?,What shall we play with?,私たちがやって遊ぶでしょうか？
+959,dialogue_274,오스카 어디있어~?,Where is Oscar~?,オスカーどこ〜？
+960,dialogue_275,자판기 사업은 즐거워보여,The vending machine business looks fun.,自動販売機事業は、楽しそう
+961,dialogue_276,추울때는 자판기 근처로 가자!,Let's go near the vending machine when it's cold!,寒い時は自動販売機の近くに行こう！
+962,dialogue_277,뭘 봐?,What you looking at?,何を見て？
+963,dialogue_278,따듯한 곳을 찾고 있어,I'm looking for a warm place,暖かい場所を探している
+964,dialogue_279,사실은 착하다는 소리 많이 들어,"Actually, I hear a lot about being good",実際には、善良音多く含ま
+965,dialogue_280,졸려~,Sleepy,眠い〜
+966,dialogue_281,느긋한 하루를 보낼 수 있는 곳을 찾고 있어,I'm looking for a place where I can spend a relaxing day,ゆったりとした一日を過ごすことができる場所を探している
+967,dialogue_282,느극하게 즐기자,Let's enjoy,ヌグクに楽しもう
+968,dialogue_283,헤헿...,Hehe...,ヘヘᇂ...
+969,dialogue_284,후우..고마워,Whoo.. thanks,ふぅ...ありがとう
+970,dialogue_285,정말?,Really?,本当に？
+971,dialogue_286,오리도 너구리도 아냐,Neither duck nor raccoon,アヒルもアライグマもない
+972,dialogue_287,조금 독특해도 괜찮은 곳을 찾고 있어,I'm looking for a place that might be a little unique,少しユニークも大丈夫なところを探している
+973,dialogue_288,독특하다는건 뭘까?,What is unique?,ユニークであることは何だろうか？
+974,dialogue_289,길 잃은게 아냐!,I'm not lost!,道に迷ったんじゃない！
+975,dialogue_290,풀밭이 있는 곳을 찾고 있어,I'm looking for a meadow,草原がある場所を探している
+976,dialogue_291,풀을 좋아해,I like the grass,プールを好き
+977,dialogue_292,"내가 길은 잘 못찾지만, 너에게로 가는 길을 잃어버리지 않을거야.","I can't find the way well, but I will not get lost on my way to you.",私の道もない見つからが、お前に行く道を失わないよ。
+978,dialogue_293,...여기가 어디지...웃지말라구..,...Where are you... don't laugh...,...ここはどこ...笑ってなよ。
+979,dialogue_294,웃지 말구 나좀 도와줘.. 집에 가고싶어..,"Don't laugh, help me... I want to go home...",笑わ意味しナジョム助けてくれ。家に行きたい。
+980,dialogue_295,엄마!!!!,Mom!!!!,ママ!!!!
+981,dialogue_296,저 넓은 바다를 보고 싶다...,I want to see that wide ocean...,私の広い海を見たいと思う...
+982,dialogue_297,바다가 보이는 곳을 찾고 있소...,I'm looking for a sea view...,海が見える場所を探して気づい...
+983,dialogue_298,바다를 좋아하는 펠릭스가 찾아왔소...,"Felix, who loves the sea, is here...",海が好きなフェリックスが見つけて来たん...
+984,dialogue_299,그대의 웃는 얼굴은 바다와 같다...,Your smile is like the sea...,君の笑顔は、海と同じ...
+985,dialogue_300,흠흠...부끄럽소...,Hmm hmm... I'm ashamed...,フムフム...恥ずかしい所...
+986,dialogue_301,나도..그러하오...,Me too...,私も..そうハオ...
+987,dialogue_302,즐거운 시간이군..,It's a good time...,楽しい時間だね。
+988,dialogue_303,나도 그대와 함께 즐겁고 싶소...,I want to have fun with you...,私も君と一緒に楽しくおきたい...
+989,dialogue_304,나와 함께 바다에 갈테오..?,Will you go to the sea with me..?,私と一緒に海に行くテオ..？
+990,dialogue_305,안녕하세요. 편지 보내시려구요?,Good morning. Would you like to send a letter?,こんにちは。メール送っつもり？
+991,dialogue_306,편지부터 택배까지 맡겨주세요!,Leave it from letter to courier!,メールから宅配までお任せください！
+992,dialogue_307,믿음직한 발루가 되겠습니다!,I will be a reliable Baloo!,頼もしいヴァがなり！
+993,dialogue_308,안녕하세요. 티켓 확인할게요!!,Good morning. I'll check the tickets!!,こんにちは。チケット確認よ！
+994,dialogue_309,버스 안내가 필요하신가요?,Need a bus guide?,バス案内が必要ですか？
+995,dialogue_310,손님 지금은 근무중입니다!!,Guests are working now!!,ゲスト今は勤務中です！
+996,dialogue_311,이러시면 곤란합니다!!,This is difficult!!,イロシミョン困難です！
+997,dialogue_312,곤란하지만... 감사합니다!!,Difficult but... thank you!!,困難であるが...ありがとうございます！
+998,dialogue_313,오늘은 어디로 모실까요?!,Where do you want to go today?!,今日はどこに運ぶか？！
+999,dialogue_314,오늘의 도착지는 저 푸른 바다입니다!!,Today's destination is that blue sea!!,今日の到着はあの青い海です！
+1000,dialogue_315,버스 출발합니다~!!,Bus departs~!!,バス出発し〜！
+1001,dialogue_316,밀림의 왕 등장!!,King of the jungle appeared!!,密林の王登場！
+1002,dialogue_317,높은 언덕이 있는 곳을 찾고 있다!,I'm looking for a high hill!,高い丘がある所を探している！
+1003,dialogue_318,왜 무슨 일 있어?,What's going on?,なぜ何ですか？
+1004,dialogue_319,이 몸에게 지금 애교부리는 건가?,Are you begging this body now?,このボディに今愛嬌張るか？
+1005,dialogue_320,나 만큼은 아니지만 귀엽군!!,"Not as good as me, but cute!!",私ほどではないグィヨプグン！
+1006,dialogue_321,그 미소!! 이 몸이 인정한다!!,That smile!! This body admits!!,その笑顔！この体が認められている！
+1007,dialogue_322,이 몸이 이번만 봐주는거야~!,This body is only looking at this time~!,この体が今回だけ見てくれるよ〜！
+1008,dialogue_323,좋아 같이 놀아주지!,"Okay, let's play together!",好きに遊んでくれ！
+1009,dialogue_324,이 몸과 놀고 싶다구?,Want to play with this body?,この体と遊びたいよ？
+1010,name_top_shirt_01,기본셔츠,,
+1011,name_top_sprite_shirt,스프라이트 셔츠,,
+1012,name_top_aerobic_shirt,에어로빅 상의,,
+1013,name_top_sweatsuit_shirt,츄리닝 상의,,
+1014,name_top_hood_t_shirt,후드티(파스텔톤컬러),,
+1015,name_top_sleeveless_shirt,나시,,
+1016,name_top_man_to_man,맨투맨,,
+1017,name_top_polar_T,폴라티,,
+1018,name_top_sailor_shirt,세일러 카라 티셔츠,,
+1019,name_top_knitwear_shirt,기본니트(네이비컬러),,
+1020,name_top_suit_shirt,정장셔츠(넥타이),,
+1021,name_pants_pants_01,기본바지,,
+1022,name_pants_jeans_pants,청바지,,
+1023,name_pants_aerobic_pants,에어로빅 바지,,
+1024,name_pants_sweatsuit_pants,츄리닝 하의,,
+1025,name_pants_jogger_pants,조거팬츠,,
+1026,name_pants_suit_pants,정장바지,,
+1027,name_skirt_check_skirt,체크 스커트,,
+1028,name_skirt_tennis_skirt,테니스 스커트,,
+1029,name_skirt_long_skirt,롱치마,,
+1030,name_skirt_wrap_skirt,랩스커트,,
+1031,name_skirt_flared_skirt,플레어 스커트,,
+1032,name_skirt_mesh_skirt,망사 스커트,,
+1033,name_skirt_suit_skirt,정장치마,,
+1034,name_outer_jacket_01,자켓,,
+1035,name_outer_baseball_jaket,야구잠바,,
+1036,name_outer_vest_01,조끼(베스트),,
+1037,name_outer_Overall_trousers,멜빵바지,,
+1038,name_outer_suspender_skirt,멜빵치마,,
+1039,name_outer_trench_coat,트렌치코트,,
+1040,name_outer_cardigan,가디건,,
+1041,name_outer_flight_jacket,항공점퍼,,
+1042,name_outer_blue_jean,청자켓,,
+1043,name_outer_suit_jacket,정장자켓,,
+1044,name_helmet_bucket_hat,버킷햇,,
+1045,name_helmet_beret_hat,빵모자,,
+1046,name_helmet_aerobic_hat,스포츠 헤어밴드,,
+1047,name_helmet_aseball_cap,야구모자,,
+1048,name_helmet_beanie,비니,,
+1049,name_helmet_snapback,스냅백,,
+1050,name_helmet_fedora,페도라,,
+1051,name_accessory_cabbage_dress,배추 전신복,,
+1052,name_accessory_hot_dog_dress,핫도그 전신복,,
+1053,desc_top_shirt_01,,,
+1054,desc_top_sprite_shirt,,,
+1055,desc_top_aerobic_shirt,,,
+1056,desc_top_sweatsuit_shirt,,,
+1057,desc_top_hood_t_shirt,,,
+1058,desc_top_sleeveless_shirt,,,
+1059,desc_top_man_to_man,,,
+1060,desc_top_polar_T,,,
+1061,desc_top_sailor_shirt,,,
+1062,desc_top_knitwear_shirt,,,
+1063,desc_top_suit_shirt,,,
+1064,desc_pants_pants_01,,,
+1065,desc_pants_jeans_pants,,,
+1066,desc_pants_aerobic_pants,,,
+1067,desc_pants_sweatsuit_pants,,,
+1068,desc_pants_jogger_pants,,,
+1069,desc_pants_suit_pants,,,
+1070,desc_skirt_check_skirt,,,
+1071,desc_skirt_tennis_skirt,,,
+1072,desc_skirt_long_skirt,,,
+1073,desc_skirt_wrap_skirt,,,
+1074,desc_skirt_flared_skirt,,,
+1075,desc_skirt_mesh_skirt,,,
+1076,desc_skirt_suit_skirt,,,
+1077,desc_outer_jacket_01,,,
+1078,desc_outer_baseball_jaket,,,
+1079,desc_outer_vest_01,,,
+1080,desc_outer_Overall_trousers,,,
+1081,desc_outer_suspender_skirt,,,
+1082,desc_outer_trench_coat,,,
+1083,desc_outer_cardigan,,,
+1084,desc_outer_flight_jacket,,,
+1085,desc_outer_blue_jean,,,
+1086,desc_outer_suit_jacket,,,
+1087,desc_helmet_bucket_hat,,,
+1088,desc_helmet_beret_hat,,,
+1089,desc_helmet_aerobic_hat,,,
+1090,desc_helmet_aseball_cap,,,
+1091,desc_helmet_beanie,,,
+1092,desc_helmet_snapback,,,
+1093,desc_helmet_fedora,,,
+1094,desc_accessory_cabbage_dress,,,
+1095,desc_accessory_hot_dog_dress,,,
+1096,name_item_reshuffle,재섞기,,
+1097,name_item_random_removal,랜덤제거,,
+1098,name_item_hint,힌트,,
+1099,name_item_add_time,시간 추가,,
+1100,desc_item_reshuffle,모든 패를 다시 섞는다.,,
+1101,desc_item_random_removal,패 2개를 바로 제거한다.,,
+1102,desc_item_hint,맞출 수 있는 패를 보여준다.,,
+1103,desc_item_add_time,플레이 시간을 늘려준다.,,
+1104,name_item_coin,골드,,
+1105,desc_item_leap,"마을 주요 수익원, 일하러 갈때 사용된다. 특별한 코스튬으로 얻을 수 있다.",,
+1106,desc_item_wood,펭귄 자판기에서 교환 가능. 튼튼한 기둥이 필요하다면 사용하자.,,
+1107,desc_item_brick,펭귄 자판기에서 교환 가능. 튼튼하고 붉은 벽돌. 마을을 다시 꾸미는데 사용된다.,,
+1108,desc_item_glass,펭귄 자판기에서 교환 가능. 투명한 병에 맛있는 우유를 담을 수 있다.,,
+1109,desc_item_paint,펭귄 자판기에서 교환 가능. 다양한 물건을 담고 운반할 수 있다. 100% 스댕.,,
+1110,desc_item_screw,펭귄 자판기에서 교환 가능. 닦고 조이고 조이자! 유격없는 볼트사랑.,,
+1111,desc_item_hammer,펭귄 자판기에서 교환 가능. 뚝딱뚝딱 마을을 다시 만드는데 필요한 재료.,,
+1112,desc_item_coin,일하고 얻는 수당. 펭귄 자판기를 통해 다양한 재료를 살 수 있다. 그림찾기 아이템 구매시 사용된다.,,

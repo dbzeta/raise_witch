@@ -1,0 +1,11 @@
+id,quest_type,quest_count,reward_item_id,reward_item_count,textcode_name,quest_condition_type
+500000,eDailyQuest,5,200000,500,일일 퀘스트 완료,eClearDailyQuest
+500001,eDailyQuest,1,200000,200,캐릭터 강화,eEnhancement_Chracter
+500002,eDailyQuest,1,200000,200,장비 강화,eEnhancement_Equipment
+500003,eDailyQuest,1,200000,200,장비 합성,eMerge_Equipment
+500004,eDailyQuest,3,200000,200,던전 입장,eEnter_Dungeon
+500005,eDailyQuest,1,200000,200,스킬 사용,eUseSkill
+500006,eDailyQuest,1,200000,200,피버 사용,eSummon
+500007,eDailyQuest,500,200000,200,몬스터 처치,eKill_Monster
+500008,eDailyQuest,600,200000,200,플레이 시간,ePlayTime
+500009,eDailyQuest,1,200000,500,광고 시청하기,eShowAds

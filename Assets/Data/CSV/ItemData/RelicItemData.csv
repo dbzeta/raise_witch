@@ -1,0 +1,11 @@
+item_id,item_type,rarity_type,icon_name,textcode_name,textcode_explain,start_level,max_level,increase_status_type,increase_status_value
+205000,eRelicItem,eNone,,고대의 스태프 조각,최종 데미지 증가,1,100,eIncreaseFinalDamageRate,1
+205001,eRelicItem,eNone,,고대의 주화,골드 획득량 증가,1,100,eIncreaseGoldAcquisition,10
+205002,eRelicItem,eNone,,고대의 성배,경험치 획득량 증가,1,100,eIncreaseExpAcquisition,10
+205003,eRelicItem,eNone,,고대의 팔찌,치명타 데미지 증가,1,100,eIncreaseCriticalDamage,10
+205004,eRelicItem,eNone,,고대의 귀걸이,슈퍼 치명타 데미지 증가,1,100,eIncreaseSuperCriticalDamage,1
+205005,eRelicItem,eNone,,고대의 장갑,공격속도 증가,1,100,eIncreaseAttackSpeed,1
+205006,eRelicItem,eNone,,고대의 신발,이동속도 증가,1,100,eIncreaseMoveSpeed,1
+205007,eRelicItem,eNone,,고대의 정령석,일반 몬스터 HP감소,1,100,eDecreaseNormalMonsterHP,0.5
+205008,eRelicItem,eNone,,고대의 오브,보스 몬스터 HP감소,1,100,eDecreaseBossMonsterHP,0.5
+205009,eRelicItem,eNone,,고대의 왕관,던전 몬스터 HP감소,1,100,eDecreaseDungeonMonsterHP,0.5

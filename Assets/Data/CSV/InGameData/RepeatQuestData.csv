@@ -1,0 +1,8 @@
+id,quest_type,quest_count,reward_item_id,reward_item_count,textcode_name,quest_condition_type
+510000,eRepeatQuest,10,200000,100,버프 스킬 사용,eUseSkill_Buff
+510001,eRepeatQuest,10,200000,100,액티브 스킬 사용,eUseSkill_Active
+510002,eRepeatQuest,1000,200000,100,몬스터 처치,eKill_Monster
+510003,eRepeatQuest,600,200000,100,플레이 시간,ePlayTime
+510004,eRepeatQuest,30,200000,200,장비 강화,eEnhancement_Equipment
+510005,eRepeatQuest,30,200000,200,장비 합성,eMerge_Equipment
+510006,eRepeatQuest,50,200000,300,장비 소환,eSummon

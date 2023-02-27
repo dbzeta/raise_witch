@@ -1,0 +1,4 @@
+item_id,item_type,goods_item_type,rarity_type,icon_name,textcode_name,textcode_explain
+200000,eGoodsItem,eDiamond,eNone,item_diamond,다이아,
+200001,eGoodsItem,eGold,eNone,item_gold,골드,
+200002,eGoodsItem,eRuby,eNone,item_ruby,루비,

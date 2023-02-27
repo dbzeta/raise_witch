@@ -1,0 +1,4 @@
+store_id,summon_store_type,start_level,max_level,textcode_name,textcode_explain,icon_name,summon_item_counts,price_item_ids,price_item_counts
+400000,eWeapon,1,10,무기 소환,,icon_summon_weapon,10\10\30,0\200000\200000,0\1000\3000
+400001,eNecklace,1,10,목걸이 소환,,icon_summon_necklace,10\10\30,0\200000\200000,0\1000\3000
+400002,eRing,1,10,반지 소환,,icon_summon_ring,10\10\30,0\200000\200000,0\1000\3000

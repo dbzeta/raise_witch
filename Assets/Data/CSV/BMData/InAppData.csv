@@ -1,0 +1,9 @@
+﻿index,target_store_id,textcode_name,textcode_explain,icon_name,target_item_ids,target_item_counts,product_type,price,inapp_product_id,inapp_google_store_id,inapp_ios_store_id
+1,1000015,,,,804000,1,NonConsumable,1200,cospkg_001,com.Placer.TinyForest2.global.cospkg_001,
+2,1000016,,,,804001,1,NonConsumable,1200,cospkg_002,com.Placer.TinyForest2.global.cospkg_002,
+3,1000017,,,,804002,1,NonConsumable,1200,cospkg_003,com.Placer.TinyForest2.global.cospkg_003,
+4,1000018,,,,804003,1,NonConsumable,1200,cospkg_004,com.Placer.TinyForest2.global.cospkg_004,
+5,1000019,,,,804004,1,NonConsumable,1200,cospkg_005,com.Placer.TinyForest2.global.cospkg_005,
+6,1000020,,,,804005,1,NonConsumable,1200,cospkg_006,com.Placer.TinyForest2.global.cospkg_006,
+7,1000021,,,,804006,1,NonConsumable,1200,cospkg_007,com.Placer.TinyForest2.global.cospkg_007,
+8,1000022,,,,804007,1,NonConsumable,1200,cospkg_008,com.Placer.TinyForest2.global.cospkg_008,

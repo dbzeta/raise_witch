@@ -1,0 +1,5 @@
+﻿Index,id,itemType,spriteName,textcode_name,textcode_desc,textcode_desc_reward1,textcode_desc_reward2
+0,202000,eConsumeItem,item_reshuffle,name_item_reshuffle,desc_item_reshuffle,,
+1,202001,eConsumeItem,item_random_removal,name_item_random_removal,desc_item_random_removal,,
+2,202002,eConsumeItem,item_hint,name_item_hint,desc_item_hint,,
+3,202003,eConsumeItem,item_add_time,name_item_add_time,desc_item_add_time,,

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">566880032896</string>
+  <string name="google_storage_bucket" translatable="false">raisewitchrpg.appspot.com</string>
+  <string name="project_id" translatable="false">raisewitchrpg</string>
+  <string name="google_api_key" translatable="false">AIzaSyDV8ID9pBNuxRXRcj0rXNJ8EuWCCD-UznA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDV8ID9pBNuxRXRcj0rXNJ8EuWCCD-UznA</string>
+  <string name="google_app_id" translatable="false">1:566880032896:android:dab4743b54966cefcfae65</string>
+  <string name="default_web_client_id" translatable="false">566880032896-57lpdsp9kvrbei0mk967jum88f5bm87l.apps.googleusercontent.com</string>
+</resources>
