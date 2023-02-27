@@ -70,11 +70,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Packed 
-/[Aa]ssets/[Ff]onts/aa.meta
-/[Aa]ssets/[Ff]onts/aa/*
-/[Aa]ssets/[Ff]irebase/aa.meta
-/[Aa]ssets/[Ff]irebase/aa/*
-
 # Keystore
 dollook.keystore
